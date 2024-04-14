@@ -1,22 +1,26 @@
 {
-  "1080643375960707092":[
+  "1080643375960707092": [
     {
-      "tooltip":"Cap",
-      "badge":"https://i.imgur.com/sDNrUGo.png"
+      "tooltip": "Cap",
+      "badge": "https://i.imgur.com/sDNrUGo.png"
     }
   ],
   "848339671629299742": [
     {
-        "tooltip": "Around the world",
-        "badge": "https://badges.vencord.dev/badges/848339671629299742/1-8d2f71fa61e73298c5f12644943d2ce59a22f6f7.gif"
+      "tooltip": "Around the world",
+      "badge": "https://badges.vencord.dev/badges/848339671629299742/1-8d2f71fa61e73298c5f12644943d2ce59a22f6f7.gif"
     },
     {
-        "tooltip": "Code",
-        "badge": "https://i.imgur.com/pHkYsBw.gif"
+      "tooltip": "Code",
+      "badge": "https://i.imgur.com/pHkYsBw.gif"
     },
     {
-        "tooltip": "SunSOG",
-        "badge": "https://i.imgur.com/EBcoTao.png"
+      "tooltip": "SunSOG",
+      "badge": "https://i.imgur.com/EBcoTao.png"
+    },
+    {
+      "tooltip": "Equicord Team",
+      "badge": "https://i.imgur.com/KsxHlbD.png"
     }
   ],
   "789872551731527690": [
@@ -47,6 +51,16 @@
     {
       "tooltip": "HEHE",
       "badge": "https://i.imgur.com/PSPgNBw.png"
+    },
+    {
+      "tooltip": "MF BE LIKE:",
+      "badge": "https://i.imgur.com/WTcOA9u.png"
+    }
+  ],
+  "929208515883569182": [
+    {
+      "tooltip": "Equicord Team",
+      "badge": "https://i.imgur.com/KsxHlbD.png"
     }
   ]
 }
