@@ -2,7 +2,7 @@
 
 [![Equicord](https://img.shields.io/badge/Equicord-green?style=flat)](https://github.com/Equicord/Equicord)
 [![Equibop](https://img.shields.io/badge/Equibop-green?style=flat)](https://github.com/Equicord/Equibop)
-[![Equilotl](https://img.shields.io/badge/Equilotl-green?style=flat)](https://github.com/Equicord/Installer)
+[![Equilotl](https://img.shields.io/badge/Equilotl-green?style=flat)](https://github.com/Equicord/Equilotl)
 [![Equibite](https://img.shields.io/badge/Equicord-green?style=flat)](https://github.com/Equicord/Equibite)
 
 [![Discord](https://img.shields.io/discord/1207691698386501634.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/5Xh2W87egW)
