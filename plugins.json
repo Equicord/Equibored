@@ -5,22 +5,6 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "Anammox",
-        "description": "A microbial process that plays an important part in the nitrogen cycle",
-        "authors": [
-            {
-                "name": "Kyuuhachi",
-                "id": "236588665420251137"
-            }
-        ],
-        "filePath": "src/equicordplugins/annamox"
-    },
-    {
-        "hasPatches": true,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
         "name": "AmITyping",
         "description": "Shows you if other people can see you typing.",
         "authors": [
@@ -117,6 +101,25 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
+        "name": "Cute-Anime-Boys",
+        "authors": [
+            {
+                "name": "Shady Goat",
+                "id": "376079696489742338"
+            }
+        ],
+        "description": "Add a command to send cute anime boys in the chat",
+        "dependencies": [
+            "CommandsAPI"
+        ],
+        "filePath": "src/equicordplugins/cuteAnimeBoys"
+    },
+    {
+        "hasPatches": false,
+        "hasCommands": true,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
         "name": "CutePats",
         "description": "Pat Command",
         "dependencies": [
@@ -132,22 +135,19 @@
     },
     {
         "hasPatches": false,
-        "hasCommands": true,
+        "hasCommands": false,
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "Cute-Anime-Boys",
+        "name": "DNDWhilePlaying",
+        "description": "Automatically updates your status to Do Not Disturb when playing games and resets it back when stopped playing",
         "authors": [
             {
-                "name": "Shady Goat",
-                "id": "376079696489742338"
+                "name": "thororen",
+                "id": "848339671629299742"
             }
         ],
-        "description": "Add a command to send cute anime boys in the chat",
-        "dependencies": [
-            "CommandsAPI"
-        ],
-        "filePath": "src/equicordplugins/cuteAnimeBoys"
+        "filePath": "src/equicordplugins/dndWhilePlaying"
     },
     {
         "hasPatches": false,
@@ -166,22 +166,6 @@
             }
         ],
         "filePath": "src/equicordplugins/doNotLeak"
-    },
-    {
-        "hasPatches": false,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
-        "name": "DNDWhilePlaying",
-        "description": "Automatically updates your status to Do Not Disturb when playing games and resets it back when stopped playing",
-        "authors": [
-            {
-                "name": "thororen",
-                "id": "848339671629299742"
-            }
-        ],
-        "filePath": "src/equicordplugins/dndWhilePlaying"
     },
     {
         "hasPatches": false,
@@ -253,25 +237,6 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "GrammarFix",
-        "description": "Automatic punctuation, capitalization, and word replacement.",
-        "authors": [
-            {
-                "name": "Unstream",
-                "id": "1125315673829154837"
-            }
-        ],
-        "dependencies": [
-            "MessageEventsAPI"
-        ],
-        "filePath": "src/equicordplugins/grammarFix"
-    },
-    {
-        "hasPatches": false,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
         "name": "Grammar",
         "description": "Tweaks your messages to make them look nicer and have better grammar",
         "authors": [
@@ -284,6 +249,25 @@
             "MessageEventsAPI"
         ],
         "filePath": "src/equicordplugins/grammar"
+    },
+    {
+        "hasPatches": false,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
+        "name": "GrammarFix",
+        "description": "Automatic punctuation, capitalization, and word replacement.",
+        "authors": [
+            {
+                "name": "Unstream",
+                "id": "1125315673829154837"
+            }
+        ],
+        "dependencies": [
+            "MessageEventsAPI"
+        ],
+        "filePath": "src/equicordplugins/grammarFix"
     },
     {
         "hasPatches": true,
@@ -302,22 +286,6 @@
         "filePath": "src/equicordplugins/ignoreTerms"
     },
     {
-        "hasPatches": true,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
-        "name": "IrcColors",
-        "description": "Makes username colors in chat unique, like in IRC clients",
-        "authors": [
-            {
-                "name": "Grzesiek11",
-                "id": "368475654662127616"
-            }
-        ],
-        "filePath": "src/equicordplugins/ircColors"
-    },
-    {
         "hasPatches": false,
         "hasCommands": false,
         "enabledByDefault": false,
@@ -332,6 +300,22 @@
             }
         ],
         "filePath": "src/equicordplugins/keyboardSounds"
+    },
+    {
+        "hasPatches": true,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
+        "name": "IrcColors",
+        "description": "Makes username colors in chat unique, like in IRC clients",
+        "authors": [
+            {
+                "name": "Grzesiek11",
+                "id": "368475654662127616"
+            }
+        ],
+        "filePath": "src/equicordplugins/ircColors"
     },
     {
         "hasPatches": true,
@@ -668,50 +652,23 @@
         "filePath": "src/equicordplugins/altKrispSwitch"
     },
     {
-        "hasPatches": true,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [
-            "activity"
-        ],
-        "name": "BetterActivities",
-        "description": "Shows activity icons in the member list and allows showing all activities",
-        "authors": [
-            {
-                "name": "D3SOX",
-                "id": "201052085641281538"
-            },
-            {
-                "name": "ArjixWasTaken",
-                "id": "674710789138939916"
-            },
-            {
-                "name": "AutumnVN",
-                "id": "393694671383166998"
-            }
-        ],
-        "filePath": "src/equicordplugins/betterActivities"
-    },
-    {
         "hasPatches": false,
         "hasCommands": false,
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "PhilsBetterMicrophone",
-        "description": "This plugin allows you to further customize your microphone.",
+        "name": "DecodeBase64",
+        "description": "Decode base64 content of any message and copy the decoded content.",
         "authors": [
             {
-                "name": "philhk",
-                "id": "305288513941667851"
+                "name": "ThePirateStoner",
+                "id": "1196220620376121381"
             }
         ],
         "dependencies": [
-            "PhilsPluginLibrary"
+            "MessagePopoverAPI"
         ],
-        "target": "desktop",
-        "filePath": "src/equicordplugins/betterMicrophone.desktop"
+        "filePath": "src/equicordplugins/baseDecoder"
     },
     {
         "hasPatches": true,
@@ -750,6 +707,68 @@
         "filePath": "src/equicordplugins/betterQuickReact"
     },
     {
+        "hasPatches": false,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
+        "name": "PhilsBetterMicrophone",
+        "description": "This plugin allows you to further customize your microphone.",
+        "authors": [
+            {
+                "name": "philhk",
+                "id": "305288513941667851"
+            }
+        ],
+        "dependencies": [
+            "PhilsPluginLibrary"
+        ],
+        "target": "desktop",
+        "filePath": "src/equicordplugins/betterMicrophone.desktop"
+    },
+    {
+        "hasPatches": true,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [
+            "activity"
+        ],
+        "name": "BetterActivities",
+        "description": "Shows activity icons in the member list and allows showing all activities",
+        "authors": [
+            {
+                "name": "D3SOX",
+                "id": "201052085641281538"
+            },
+            {
+                "name": "ArjixWasTaken",
+                "id": "674710789138939916"
+            },
+            {
+                "name": "AutumnVN",
+                "id": "393694671383166998"
+            }
+        ],
+        "filePath": "src/equicordplugins/betterActivities"
+    },
+    {
+        "hasPatches": true,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
+        "name": "BetterUserArea",
+        "description": "Reworks the user area styling to fit more buttons and overall look nicer",
+        "authors": [
+            {
+                "name": "Samwich",
+                "id": "976176454511509554"
+            }
+        ],
+        "filePath": "src/equicordplugins/betterUserArea"
+    },
+    {
         "hasPatches": true,
         "hasCommands": false,
         "enabledByDefault": false,
@@ -772,41 +791,6 @@
         ],
         "target": "desktop",
         "filePath": "src/equicordplugins/betterScreenshare.desktop"
-    },
-    {
-        "hasPatches": false,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
-        "name": "DecodeBase64",
-        "description": "Decode base64 content of any message and copy the decoded content.",
-        "authors": [
-            {
-                "name": "ThePirateStoner",
-                "id": "1196220620376121381"
-            }
-        ],
-        "dependencies": [
-            "MessagePopoverAPI"
-        ],
-        "filePath": "src/equicordplugins/baseDecoder"
-    },
-    {
-        "hasPatches": true,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
-        "name": "BetterUserArea",
-        "description": "Reworks the user area styling to fit more buttons and overall look nicer",
-        "authors": [
-            {
-                "name": "Samwich",
-                "id": "976176454511509554"
-            }
-        ],
-        "filePath": "src/equicordplugins/betterUserArea"
     },
     {
         "hasPatches": false,
@@ -852,6 +836,22 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
+        "name": "CommandPalette",
+        "description": "Allows you to navigate the UI with a keyboard.",
+        "authors": [
+            {
+                "name": "Ethan",
+                "id": "721717126523781240"
+            }
+        ],
+        "filePath": "src/equicordplugins/commandPalette"
+    },
+    {
+        "hasPatches": false,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
         "name": "CopyUserMention",
         "authors": [
             {
@@ -865,22 +865,6 @@
         ],
         "description": "Adds a button to copy user's mention on the user context menu, works best with ValidUser.",
         "filePath": "src/equicordplugins/copyUserMention"
-    },
-    {
-        "hasPatches": false,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
-        "name": "CommandPalette",
-        "description": "Allows you to navigate the UI with a keyboard.",
-        "authors": [
-            {
-                "name": "Ethan",
-                "id": "721717126523781240"
-            }
-        ],
-        "filePath": "src/equicordplugins/commandPalette"
     },
     {
         "hasPatches": true,
@@ -964,6 +948,22 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
+        "name": "DoubleCounterBypass",
+        "description": "Bypass Double Counter verifications easily.",
+        "authors": [
+            {
+                "name": "verticalsync",
+                "id": "328165170536775680"
+            }
+        ],
+        "filePath": "src/equicordplugins/doubleCounterVerifyBypass"
+    },
+    {
+        "hasPatches": false,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
         "name": "DontFilterMe",
         "description": "Warns you if your message contains a term in the automod preset list",
         "authors": [
@@ -1000,22 +1000,6 @@
             }
         ],
         "filePath": "src/equicordplugins/emojiDumper"
-    },
-    {
-        "hasPatches": false,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
-        "name": "DoubleCounterBypass",
-        "description": "Bypass Double Counter verifications easily.",
-        "authors": [
-            {
-                "name": "verticalsync",
-                "id": "328165170536775680"
-            }
-        ],
-        "filePath": "src/equicordplugins/doubleCounterVerifyBypass"
     },
     {
         "hasPatches": true,
@@ -1118,26 +1102,6 @@
     },
     {
         "hasPatches": false,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
-        "name": "GensokyoRadioRPC",
-        "description": "Discord rich presence for Gensokyo Radio!",
-        "authors": [
-            {
-                "name": "RyanCaoDev",
-                "id": "952235800110694471"
-            },
-            {
-                "name": "Prince527",
-                "id": "364105797162237952"
-            }
-        ],
-        "filePath": "src/equicordplugins/gensokyoRadioRPC"
-    },
-    {
-        "hasPatches": false,
         "hasCommands": true,
         "enabledByDefault": false,
         "required": false,
@@ -1170,6 +1134,26 @@
             }
         ],
         "filePath": "src/equicordplugins/glide"
+    },
+    {
+        "hasPatches": false,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
+        "name": "GensokyoRadioRPC",
+        "description": "Discord rich presence for Gensokyo Radio!",
+        "authors": [
+            {
+                "name": "RyanCaoDev",
+                "id": "952235800110694471"
+            },
+            {
+                "name": "Prince527",
+                "id": "364105797162237952"
+            }
+        ],
+        "filePath": "src/equicordplugins/gensokyoRadioRPC"
     },
     {
         "hasPatches": false,
@@ -1217,22 +1201,6 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "HomeTyping",
-        "description": "Changes the home button to a typing indicator if someone in your dms is typing",
-        "authors": [
-            {
-                "name": "Samwich",
-                "id": "976176454511509554"
-            }
-        ],
-        "filePath": "src/equicordplugins/homeTyping"
-    },
-    {
-        "hasPatches": true,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
         "name": "HolyNotes",
         "description": "Holy Notes allows you to save messages",
         "authors": [
@@ -1253,15 +1221,15 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "Identity",
-        "description": "Allows you to edit your profile to a random fake person with the click of a button",
+        "name": "HomeTyping",
+        "description": "Changes the home button to a typing indicator if someone in your dms is typing",
         "authors": [
             {
                 "name": "Samwich",
                 "id": "976176454511509554"
             }
         ],
-        "filePath": "src/equicordplugins/identity"
+        "filePath": "src/equicordplugins/homeTyping"
     },
     {
         "hasPatches": false,
@@ -1297,6 +1265,22 @@
             "MessageEventsAPI"
         ],
         "filePath": "src/equicordplugins/iRememberYou"
+    },
+    {
+        "hasPatches": true,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
+        "name": "Identity",
+        "description": "Allows you to edit your profile to a random fake person with the click of a button",
+        "authors": [
+            {
+                "name": "Samwich",
+                "id": "976176454511509554"
+            }
+        ],
+        "filePath": "src/equicordplugins/identity"
     },
     {
         "hasPatches": false,
@@ -1335,20 +1319,20 @@
         "filePath": "src/equicordplugins/mediaDownloader.desktop"
     },
     {
-        "hasPatches": false,
+        "hasPatches": true,
         "hasCommands": false,
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "Meow",
-        "description": "Adds a chatbar button to meow in chat",
+        "name": "ModalFade",
+        "description": "Makes modals fade the backdrop, rather than dimming",
         "authors": [
             {
-                "name": "Samwich",
-                "id": "976176454511509554"
+                "name": "Kyuuhachi",
+                "id": "236588665420251137"
             }
         ],
-        "filePath": "src/equicordplugins/meow"
+        "filePath": "src/equicordplugins/modalFade"
     },
     {
         "hasPatches": true,
@@ -1402,22 +1386,6 @@
         "filePath": "src/equicordplugins/messageLoggerEnhanced"
     },
     {
-        "hasPatches": true,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
-        "name": "ModalFade",
-        "description": "Makes modals fade the backdrop, rather than dimming",
-        "authors": [
-            {
-                "name": "Kyuuhachi",
-                "id": "236588665420251137"
-            }
-        ],
-        "filePath": "src/equicordplugins/modalFade"
-    },
-    {
         "hasPatches": false,
         "hasCommands": false,
         "enabledByDefault": true,
@@ -1448,6 +1416,22 @@
             }
         ],
         "filePath": "src/equicordplugins/noAppsAllowed"
+    },
+    {
+        "hasPatches": false,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
+        "name": "Meow",
+        "description": "Adds a chatbar button to meow in chat",
+        "authors": [
+            {
+                "name": "Samwich",
+                "id": "976176454511509554"
+            }
+        ],
+        "filePath": "src/equicordplugins/meow"
     },
     {
         "hasPatches": false,
@@ -1578,6 +1562,22 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
+        "name": "QuestionMarkReplacement",
+        "description": "Replace all question marks with chosen string, if message only contains question marks.",
+        "authors": [
+            {
+                "name": "verticalsync",
+                "id": "328165170536775680"
+            }
+        ],
+        "filePath": "src/equicordplugins/questionMarkReplacement"
+    },
+    {
+        "hasPatches": false,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
         "name": "Quoter",
         "description": "Adds the ability to create an inspirational quote image from a message",
         "authors": [
@@ -1603,22 +1603,6 @@
             }
         ],
         "filePath": "src/equicordplugins/repeatMessage"
-    },
-    {
-        "hasPatches": false,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
-        "name": "QuestionMarkReplacement",
-        "description": "Replace all question marks with chosen string, if message only contains question marks.",
-        "authors": [
-            {
-                "name": "verticalsync",
-                "id": "328165170536775680"
-            }
-        ],
-        "filePath": "src/equicordplugins/questionMarkReplacement"
     },
     {
         "hasPatches": true,
@@ -1658,39 +1642,6 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "ScreenRecorder",
-        "description": "epic screen recorder lol",
-        "authors": [
-            {
-                "name": "AutumnVN",
-                "id": "393694671383166998"
-            }
-        ],
-        "target": "vencordDesktop",
-        "filePath": "src/equicordplugins/screenRecorder.vencordDesktop"
-    },
-    {
-        "hasPatches": true,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
-        "name": "SearchFix",
-        "description": "Fixes the annoying \"We dropped the magnifying glass!\" error.",
-        "authors": [
-            {
-                "name": "Jaxx",
-                "id": "901016640253227059"
-            }
-        ],
-        "filePath": "src/equicordplugins/searchFix"
-    },
-    {
-        "hasPatches": false,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
         "name": "SekaiStickers",
         "description": "Sekai Stickers built in discord originally from github.com/TheOriginalAyaka",
         "authors": [
@@ -1710,6 +1661,23 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
+        "name": "ScreenRecorder",
+        "description": "epic screen recorder lol",
+        "authors": [
+            {
+                "name": "AutumnVN",
+                "id": "393694671383166998"
+            }
+        ],
+        "target": "vencordDesktop",
+        "filePath": "src/equicordplugins/screenRecorder.vencordDesktop"
+    },
+    {
+        "hasPatches": false,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
         "name": "ServerSearch",
         "authors": [
             {
@@ -1719,6 +1687,22 @@
         ],
         "description": "Navigate your servers better with a quick search button",
         "filePath": "src/equicordplugins/serverSearch"
+    },
+    {
+        "hasPatches": true,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
+        "name": "SearchFix",
+        "description": "Fixes the annoying \"We dropped the magnifying glass!\" error.",
+        "authors": [
+            {
+                "name": "Jaxx",
+                "id": "901016640253227059"
+            }
+        ],
+        "filePath": "src/equicordplugins/searchFix"
     },
     {
         "hasPatches": false,
@@ -1871,22 +1855,6 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "UtilityDock",
-        "description": "Adds a button on your titlebar with multiple useful features",
-        "authors": [
-            {
-                "name": "Samwich",
-                "id": "976176454511509554"
-            }
-        ],
-        "filePath": "src/equicordplugins/utilityDock"
-    },
-    {
-        "hasPatches": true,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
         "name": "UserPFP",
         "description": "Allows you to use an animated avatar without Nitro",
         "authors": [
@@ -1900,6 +1868,22 @@
             }
         ],
         "filePath": "src/equicordplugins/userpfp"
+    },
+    {
+        "hasPatches": true,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
+        "name": "UtilityDock",
+        "description": "Adds a button on your titlebar with multiple useful features",
+        "authors": [
+            {
+                "name": "Samwich",
+                "id": "976176454511509554"
+            }
+        ],
+        "filePath": "src/equicordplugins/utilityDock"
     },
     {
         "hasPatches": true,
@@ -1955,22 +1939,6 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "WebpackTarball",
-        "description": "Converts Discord's webpack sources into a tarball.",
-        "authors": [
-            {
-                "name": "Kyuuhachi",
-                "id": "236588665420251137"
-            }
-        ],
-        "filePath": "src/equicordplugins/webpackTarball"
-    },
-    {
-        "hasPatches": false,
-        "hasCommands": false,
-        "enabledByDefault": false,
-        "required": false,
-        "tags": [],
         "name": "VoiceChatUtilities",
         "description": "This plugin allows you to perform multiple actions on an entire channel (move, mute, disconnect, etc.) (originally by dutake)",
         "authors": [
@@ -1986,20 +1954,20 @@
         "filePath": "src/equicordplugins/voiceChatUtils"
     },
     {
-        "hasPatches": true,
+        "hasPatches": false,
         "hasCommands": false,
         "enabledByDefault": false,
         "required": false,
         "tags": [],
-        "name": "WhosWatching",
-        "description": "Hover over the screenshare icon to view what users are watching your stream",
+        "name": "WebpackTarball",
+        "description": "Converts Discord's webpack sources into a tarball.",
         "authors": [
             {
-                "name": "fres",
-                "id": "843448897737064448"
+                "name": "Kyuuhachi",
+                "id": "236588665420251137"
             }
         ],
-        "filePath": "src/equicordplugins/whosWatching"
+        "filePath": "src/equicordplugins/webpackTarball"
     },
     {
         "hasPatches": false,
@@ -2023,6 +1991,22 @@
         "enabledByDefault": false,
         "required": false,
         "tags": [],
+        "name": "WhosWatching",
+        "description": "Hover over the screenshare icon to view what users are watching your stream",
+        "authors": [
+            {
+                "name": "fres",
+                "id": "843448897737064448"
+            }
+        ],
+        "filePath": "src/equicordplugins/whosWatching"
+    },
+    {
+        "hasPatches": true,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
         "name": "YoutubeDescription",
         "description": "Adds descriptions to youtube video embeds",
         "authors": [
@@ -2032,5 +2016,21 @@
             }
         ],
         "filePath": "src/equicordplugins/youtubeDescription"
+    },
+    {
+        "hasPatches": true,
+        "hasCommands": false,
+        "enabledByDefault": false,
+        "required": false,
+        "tags": [],
+        "name": "Anammox",
+        "description": "Remove Some Discord Settings",
+        "authors": [
+            {
+                "name": "Kyuuhachi",
+                "id": "236588665420251137"
+            }
+        ],
+        "filePath": "src/equicordplugins/annamox"
     }
 ]
