@@ -1,4 +1,4 @@
-# Equicord Ignore Repo [<img src="https://avatars.githubusercontent.com/u/150590884" width="225" align="right" alt="Ignore">](https://github.com/Equicord/Ignore)
+# Equibored [<img src="https://avatars.githubusercontent.com/u/150590884" width="225" align="right" alt="Equibored">](https://github.com/Equicord/Equibored)
 
 [![Equicord](https://img.shields.io/badge/Equicord-green?style=flat)](https://github.com/Equicord/Equicord)
 [![Equibop](https://img.shields.io/badge/Equibop-green?style=flat)](https://github.com/Equicord/Equibop)
@@ -9,27 +9,27 @@
 
 You can join our [discord server](https://discord.gg/5Xh2W87egW) for commits, changes, chat or even support.<br></br>
 
-## Ignore
+## Equibored
 
-This is the Ignore repo which stores our:
+This is the Equibored repo which stores our:
 
 - Badges 
-- - [JSON](https://github.com/Equicord/Ignore/blob/main/badges.json)
-- - [CSV](https://github.com/Equicord/Ignore/blob/main/misc/badges.csv)
+- - [JSON](https://github.com/Equicord/Equibored/blob/main/badges.json)
+- - [CSV](https://github.com/Equicord/Equibored/blob/main/misc/badges.csv)
 - Icons 
-- - [New](https://github.com/Equicord/Ignore/blob/main/misc/icon.png)
-- - [Old](https://github.com/Equicord/Ignore/blob/main/misc/icon-old.png)
+- - [New](https://github.com/Equicord/Equibored/blob/main/misc/icon.png)
+- - [Old](https://github.com/Equicord/Equibored/blob/main/misc/icon-old.png)
 - Plugin Stuff
 - - Discordo Sounds 
-- - - [Equicordo](https://github.com/Equicord/Ignore/blob/main/sounds/discordo/equicordo.mp3)
+- - - [Equicordo](https://github.com/Equicord/Equibored/blob/main/sounds/discordo/equicordo.mp3)
 - - Keyboard Sounds 
-- - - [Backspace](https://github.com/Equicord/Ignore/blob/main/sounds/keyboard/backspace.wav) 
-- - - [Click1](https://github.com/Equicord/Ignore/blob/main/sounds/keyboard/click1.wav)
-- - - [Click2](https://github.com/Equicord/Ignore/blob/main/sounds/keyboard/click2.wav)
-- - - [Click3](https://github.com/Equicord/Ignore/blob/main/sounds/keyboard/click3.wav)
+- - - [Backspace](https://github.com/Equicord/Equibored/blob/main/sounds/keyboard/backspace.wav) 
+- - - [Click1](https://github.com/Equicord/Equibored/blob/main/sounds/keyboard/click1.wav)
+- - - [Click2](https://github.com/Equicord/Equibored/blob/main/sounds/keyboard/click2.wav)
+- - - [Click3](https://github.com/Equicord/Equibored/blob/main/sounds/keyboard/click3.wav)
 - - Moyai Sounds 
-- - - [MP3](https://github.com/Equicord/Ignore/blob/main/sounds/moyai/moyai.mp3) 
-- - - [WAV](https://github.com/Equicord/Ignore/blob/main/sounds/moyai/moyai.wav)
+- - - [MP3](https://github.com/Equicord/Equibored/blob/main/sounds/moyai/moyai.mp3) 
+- - - [WAV](https://github.com/Equicord/Equibored/blob/main/sounds/moyai/moyai.wav)
 - - Quoter
-- - - [JSON](https://github.com/Equicord/Ignore/blob/main/quoterusers.json)
-- [JSON](https://github.com/Equicord/Ignore/blob/main/plugins.json)
+- - - [JSON](https://github.com/Equicord/Equibored/blob/main/quoterusers.json)
+- [JSON](https://github.com/Equicord/Equibored/blob/main/plugins.json)
