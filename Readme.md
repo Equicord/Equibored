@@ -7,7 +7,7 @@
 [![Tests2](https://github.com/Equicord/Equibop/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Equicord/Equibop/actions/workflows/test.yml)
 
 [![Equilotl](https://img.shields.io/badge/Equilotl-green?style=flat)](https://github.com/Equicord/Equilotl)
-[![Tests](https://github.com/Equicord/Equilotl/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/Equicord/Equilotl/actions/workflows/release.yml)
+[![Tests](https://github.com/Equicord/Equilotl/actions/workflows/release.yml/badge.svg)](https://github.com/Equicord/Equilotl/actions/workflows/release.yml)
 
 [![Equibite](https://img.shields.io/badge/Equibite-green?style=flat)](https://github.com/Equicord/Equibite)
 No Workflow Yet
