@@ -1,9 +1,16 @@
 # Equibored [<img src="https://avatars.githubusercontent.com/u/150590884" width="225" align="right" alt="Equibored">](https://github.com/Equicord/Equibored)
 
 [![Equicord](https://img.shields.io/badge/Equicord-green?style=flat)](https://github.com/Equicord/Equicord)
+[![Tests1](https://github.com/Equicord/Equicord/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Equicord/Equicord/actions/workflows/test.yml)
+
 [![Equibop](https://img.shields.io/badge/Equibop-green?style=flat)](https://github.com/Equicord/Equibop)
+[![Tests2](https://github.com/Equicord/Equibop/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Equicord/Equibop/actions/workflows/test.yml)
+
 [![Equilotl](https://img.shields.io/badge/Equilotl-green?style=flat)](https://github.com/Equicord/Equilotl)
+[![Tests](https://github.com/Equicord/Equilotl/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/Equicord/Equilotl/actions/workflows/release.yml)
+
 [![Equibite](https://img.shields.io/badge/Equibite-green?style=flat)](https://github.com/Equicord/Equibite)
+No Workflow Yet
 
 [![Discord](https://img.shields.io/discord/1207691698386501634.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/5Xh2W87egW)
 
@@ -32,4 +39,4 @@ This is the Equibored repo which stores our:
 - - - [WAV](https://github.com/Equicord/Equibored/blob/main/sounds/moyai/moyai.wav)
 - - Quoter
 - - - [JSON](https://github.com/Equicord/Equibored/blob/main/quoterusers.json)
-- [JSON](https://github.com/Equicord/Equibored/blob/main/plugins.json)
+- - [JSON](https://github.com/Equicord/Equibored/blob/main/plugins.json)
