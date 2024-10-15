@@ -38,5 +38,5 @@ This is the Equibored repo which stores our:
 - - - [MP3](https://github.com/Equicord/Equibored/blob/main/sounds/moyai/moyai.mp3) 
 - - - [WAV](https://github.com/Equicord/Equibored/blob/main/sounds/moyai/moyai.wav)
 - - Quoter
-- - - [JSON](https://github.com/Equicord/Equibored/blob/main/quoterusers.json)
+- - - [JSON](https://github.com/Equicord/Equibored/blob/main/misc/quoterusers.json)
 - - [JSON](https://github.com/Equicord/Equibored/blob/main/plugins.json)
