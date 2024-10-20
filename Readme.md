@@ -1,10 +1,10 @@
 # Equibored [<img src="https://avatars.githubusercontent.com/u/150590884" width="225" align="right" alt="Equibored">](https://github.com/Equicord/Equibored)
 
 [![Equicord](https://img.shields.io/badge/Equicord-green?style=flat)](https://github.com/Equicord/Equicord)
-[![Equicord-Test](https://github.com/Equicord/Equicord/actions/workflows/test.yml/badge.svg)](https://github.com/Equicord/Equicord/actions/workflows/build.yml)
+[![Equicord-Test](https://github.com/Equicord/Equicord/actions/workflows/test.yml/badge.svg)](https://github.com/Equicord/Equicord/actions/workflows/test.yml)
 
 [![Equibop](https://img.shields.io/badge/Equibop-green?style=flat)](https://github.com/Equicord/Equibop)
-[![Equibop-Test](https://github.com/Equicord/Equibop/actions/workflows/test.yml/badge.svg)](https://github.com/Equicord/Equibop/actions/workflows/release.yml)
+[![Equibop-Test](https://github.com/Equicord/Equibop/actions/workflows/test.yml/badge.svg)](https://github.com/Equicord/Equibop/actions/workflows/test.yml)
 
 [![Equilotl](https://img.shields.io/badge/Equilotl-green?style=flat)](https://github.com/Equicord/Equilotl)
 [![Equilotl-Test](https://github.com/Equicord/Equilotl/actions/workflows/release.yml/badge.svg)](https://github.com/Equicord/Equilotl/actions/workflows/release.yml)
