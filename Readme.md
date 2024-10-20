@@ -4,7 +4,7 @@
 [![Equicord-Test](https://github.com/Equicord/Equicord/actions/workflows/test.yml/badge.svg)](https://github.com/Equicord/Equicord/actions/workflows/build.yml)
 
 [![Equibop](https://img.shields.io/badge/Equibop-green?style=flat)](https://github.com/Equicord/Equibop)
-[![Equibop-Test](https://github.com/Equicord/Equibop/actions/workflows/test.yml/badge.svg)](https://github.com/Equicord/Equibop/actions/workflows/release.yml)
+[![Equibop-Test](https://github.com/Equicord/Equibop/actions/workflows/test.yml/badge.sv)](https://github.com/Equicord/Equibop/actions/workflows/release.yml)
 
 [![Equilotl](https://img.shields.io/badge/Equilotl-green?style=flat)](https://github.com/Equicord/Equilotl)
 [![Equilotl-Test](https://github.com/Equicord/Equilotl/actions/workflows/release.yml/badge.svg)](https://github.com/Equicord/Equilotl/actions/workflows/release.yml)
