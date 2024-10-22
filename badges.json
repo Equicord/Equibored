@@ -1,22 +1,42 @@
 {
-  "1080643375960707092": [
-    {
-      "tooltip": "Cap",
-      "badge": "https://i.imgur.com/sDNrUGo.png"
-    }
-  ],
   "848339671629299742": [
     {
       "tooltip": "Code",
       "badge": "https://i.imgur.com/pHkYsBw.gif"
     },
     {
-      "tooltip": "SunSOG",
-      "badge": "https://i.imgur.com/EBcoTao.png"
+      "tooltip": "Dance Dance",
+      "badge": "https://i.imgur.com/yFqFBr0.gif"
+    },
+    {
+      "tooltip": "Huh",
+      "badge": "https://i.imgur.com/JeKOHMZ.png"
+    },
+    {
+      "tooltip": "Look Right",
+      "badge": "https://i.imgur.com/hp6EvKH.gif"
     },
     {
       "tooltip": "Duck",
       "badge": "https://i.imgur.com/ZJ3Tbuu.gif"
+    },
+    {
+      "tooltip": "Look Left",
+      "badge": "https://i.imgur.com/67co3CV.gif"
+    }
+  ],
+  "353229259482857475": [
+    {
+      "tooltip": "Dont Stare So Hard",
+      "badge": "https://i.imgur.com/xYNAPo9.jpeg"
+    },
+    {
+      "tooltip": "Stareeeee",
+      "badge": "https://i.imgur.com/sMEEAgN.png"
+    },
+    {
+      "tooltip": "No",
+      "badge": "https://i.imgur.com/wDlYR5i.png"
     }
   ],
   "789872551731527690": [
@@ -33,6 +53,12 @@
     {
       "tooltip": "Equibot",
       "badge": "https://i.imgur.com/57ATLZu.png"
+    }
+  ],
+  "1080643375960707092": [
+    {
+      "tooltip": "Cap",
+      "badge": "https://i.imgur.com/sDNrUGo.png"
     }
   ],
   "387790666484285441": [
