@@ -20,9 +20,7 @@ You can join our [discord server](https://discord.gg/5Xh2W87egW) for commits, ch
 
 This is the Equibored repo which stores our:
 
-- Badges 
-- - [JSON](https://github.com/Equicord/Equibored/blob/main/badges.json)
-- - [CSV](https://github.com/Equicord/Equibored/blob/main/misc/badges.csv)
+- [Badges](https://github.com/Equicord/Equibored/blob/main/badges.json)
 - Icons 
 - - [New](https://github.com/Equicord/Equibored/blob/main/misc/icon.png)
 - - [Old](https://github.com/Equicord/Equibored/blob/main/misc/icon-old.png)
