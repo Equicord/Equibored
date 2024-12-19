@@ -1,15 +1,4 @@
-{
-  "266487686011813888": [
-    {
-      "tooltip": "Just a little more...",
-      "badge": "https://media.tenor.com/TN4j8IFQ9TUAAAAi/anime-girl.gif"
-    },
-    {
-      "tooltip": "You can do it too!",
-      "badge": "https://media.tenor.com/oL636N1Ti9cAAAAi/ok-nice.gif"
-    }
-  ],
-  "848339671629299742": [
+   "848339671629299742": [
     {
       "tooltip": "Look Right",
       "badge": "https://cdn.nest.rip/uploads/bba8cc1b-fdbc-40ea-9bb1-55caf6c3a9f6.gif"
@@ -102,12 +91,6 @@
       "tooltip": "Gustavo",
       "badge": "https://cdn.nest.rip/uploads/709d2386-bac7-4153-9839-0e15169839fc.png"
     },
-    {
-      "tooltip": "Viatico",
-      "badge": "https://cdn.nest.rip/uploads/b6e83b8c-7cae-49ef-8134-691624a478a5.png"
-    }
-  ],
-  "1293221154156314738": [
     {
       "tooltip": "Viatico",
       "badge": "https://cdn.nest.rip/uploads/b6e83b8c-7cae-49ef-8134-691624a478a5.png"
@@ -315,12 +298,6 @@
       "badge": "https://cdn.nest.rip/uploads/fe9fe678-2ffd-4881-b510-b44a2c1f4905.png"
     }
   ],
-  "1203712057640357898": [
-    {
-      "tooltip": "trans blahaj",
-      "badge": "https://cdn.nest.rip/uploads/21b0d866-0fc5-4a8b-9dbe-0c2f8e9e2e1d.gif"
-    }
-  ],
   "1281147973711040552": [
     {
       "tooltip": "Equicord Donor",
@@ -389,6 +366,17 @@
     {
       "tooltip": "Braindead Himbo",
       "badge": "https://cdn.nest.rip/uploads/aec34916-8b98-4139-95fe-6f44ebac4a98.png"
+    }
+  ],
+  {
+  "266487686011813888": [
+    {
+      "tooltip": "Just a little more...",
+      "badge": "https://media.tenor.com/TN4j8IFQ9TUAAAAi/anime-girl.gif"
+    },
+    {
+      "tooltip": "You can do it too!",
+      "badge": "https://media.tenor.com/oL636N1Ti9cAAAAi/ok-nice.gif"
     }
   ],
   "565978808524734509": [
