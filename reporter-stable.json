@@ -2,14 +2,8 @@
   "badPatches": [],
   "slowPatches": [
     {
-      "plugin": "ShowHiddenChannels",
-      "type": "took 6ms",
-      "id": "473403",
-      "match": "/(?<=\\.LOCKED(?:;if\\(|:))(?<={channel:(\\i).+?)/"
-    },
-    {
       "plugin": "HideServers",
-      "type": "took 8ms",
+      "type": "took 11.2ms",
       "id": "416568",
       "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
     }
