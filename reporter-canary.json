@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "DisableDeepLinks",
+      "type": "took 5.1ms",
+      "id": "630107",
+      "match": "/\\i\\.\\i\\.openNativeAppModal/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
