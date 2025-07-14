@@ -3,7 +3,7 @@
   "slowPatches": [
     {
       "plugin": "HideServers",
-      "type": "took 5.9ms",
+      "type": "took 5.2ms",
       "id": "416568",
       "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
     }
