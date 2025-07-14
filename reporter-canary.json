@@ -4,5 +4,8 @@
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": []
+  "badWebpackFinds": [
+    "findByProps(\"inputWrapper\", \"inputDefault\", \"error\")",
+    "findByProps(\"inputDefault\", \"inputWrapper\", \"error\")"
+  ]
 }
