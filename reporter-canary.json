@@ -1,13 +1,6 @@
 {
   "badPatches": [],
-  "slowPatches": [
-    {
-      "plugin": "AccountPanelServerProfile",
-      "type": "took 6.7ms",
-      "id": "720734",
-      "match": "/(\\.AVATAR,children:.+?renderPopout:\\((\\i),\\i\\)=>){(.+?)}(?=,position)(?<=currentUser:(\\i).+?)/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
