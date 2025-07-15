@@ -1,13 +1,6 @@
 {
   "badPatches": [],
-  "slowPatches": [
-    {
-      "plugin": "FakeProfileThemesAndEffects",
-      "type": "took 6.1ms",
-      "id": "191564",
-      "match": "/(function \\i\\([^)]*\\){(?:.(?!function ))*\\.modalContent,(?:.(?!function ))*}).*(?=}\\))/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
