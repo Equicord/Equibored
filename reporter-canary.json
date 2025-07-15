@@ -1,12 +1,5 @@
 {
-  "badPatches": [
-    {
-      "plugin": "IrcColors",
-      "type": "had no effect",
-      "id": "421399",
-      "match": "/(?<=colorString:\\i,colorStrings:\\i,colorRoleName:\\i}=)(\\i),/"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
