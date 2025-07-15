@@ -1,11 +1,27 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "BetterFolders",
+      "type": "took 5.2ms",
+      "id": "179809",
+      "match": "/(?<=\\.folderGroupBackground.*?}\\),)(?=\\i,)/"
+    },
+    {
+      "plugin": "BetterFolders",
+      "type": "took 27.4ms",
+      "id": "416568",
+      "match": "/switch\\(\\i\\.type\\).+?,\\i,\\i\\.setNodeRef/"
+    },
+    {
+      "plugin": "HideServers",
+      "type": "took 5.2ms",
+      "id": "416568",
+      "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": [
-    "findByProps(\"inputWrapper\", \"inputDefault\", \"error\")",
-    "findByProps(\"inputDefault\", \"inputWrapper\", \"error\")"
-  ]
+  "badWebpackFinds": []
 }
