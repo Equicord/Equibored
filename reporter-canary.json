@@ -1,13 +1,13 @@
 {
-  "badPatches": [],
-  "slowPatches": [
+  "badPatches": [
     {
-      "plugin": "AccountPanelServerProfile",
-      "type": "took 12.3ms",
-      "id": "720734",
-      "match": "/(\\.AVATAR,children:.+?renderPopout:\\((\\i),\\i\\)=>){(.+?)}(?=,position)(?<=currentUser:(\\i).+?)/"
+      "plugin": "IrcColors",
+      "type": "had no effect",
+      "id": "421399",
+      "match": "/(?<=colorString:\\i,colorStrings:\\i,colorRoleName:\\i}=)(\\i),/"
     }
   ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
