@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "Anammox",
+      "type": "took 7ms",
+      "id": "991346",
+      "match": "/\\i\\?\\i:\\i\\.toSpliced\\(3,0,\\i\\)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
