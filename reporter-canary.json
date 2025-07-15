@@ -7,14 +7,7 @@
       "match": "/(?<=colorString:\\i,colorStrings:\\i,colorRoleName:\\i}=)(\\i),/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "SilentTyping",
-      "type": "took 5.6ms",
-      "id": "289823",
-      "match": "/isTyping:.+?([,}].*?\\))/g"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
