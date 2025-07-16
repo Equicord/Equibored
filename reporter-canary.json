@@ -1,6 +1,20 @@
 {
-  "badPatches": [],
-  "slowPatches": [],
+  "badPatches": [
+    {
+      "plugin": "ModalFade",
+      "type": "had no effect",
+      "id": "238246",
+      "match": "/(?<=\\()\"div\"(?=,\\{className:\\i\\(\\)\\(\\i\\?\\i\\.mobileApp:\\i.app\\))/"
+    }
+  ],
+  "slowPatches": [
+    {
+      "plugin": "HideServers",
+      "type": "took 6.8ms",
+      "id": "416568",
+      "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
