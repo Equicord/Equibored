@@ -1,6 +1,19 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "FakeNitro",
+      "type": "took 6.2ms",
+      "id": "74538",
+      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
+    },
+    {
+      "plugin": "HideServers",
+      "type": "took 5.7ms",
+      "id": "416568",
+      "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
