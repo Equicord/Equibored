@@ -7,7 +7,14 @@
       "match": "/(?<=\\()\"div\"(?=,\\{className:\\i\\(\\)\\(\\i\\?\\i\\.mobileApp:\\i.app\\))/"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "QuestFocused",
+      "type": "took 9.6ms",
+      "id": "963123",
+      "match": "/(?<=case \\i\\.\\i\\.PAUSED:.{0,25})\\i\\.current\\.pause\\(\\),/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
