@@ -7,7 +7,14 @@
       "match": "/(?<=\\()\"div\"(?=,\\{className:\\i\\(\\)\\(\\i\\?\\i\\.mobileApp:\\i.app\\))/"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "WebContextMenus",
+      "type": "took 5.1ms",
+      "id": "29264",
+      "match": "/!\\i\\.isPlatformEmbedded/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
