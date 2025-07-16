@@ -3,15 +3,15 @@
   "slowPatches": [
     {
       "plugin": "FakeNitro",
-      "type": "took 6.2ms",
+      "type": "took 5.7ms",
       "id": "74538",
       "match": "/(?<=canUsePremiumAppIcons:)\\i/"
     },
     {
-      "plugin": "HideServers",
-      "type": "took 5.7ms",
-      "id": "416568",
-      "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
+      "plugin": "ContextMenuAPI",
+      "type": "took 6.1ms",
+      "id": "193910",
+      "match": "/navId:(?=.+?([,}].*?\\)))/g"
     }
   ],
   "badStarts": [],
