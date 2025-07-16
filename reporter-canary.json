@@ -1,12 +1,5 @@
 {
-  "badPatches": [
-    {
-      "plugin": "ModalFade",
-      "type": "had no effect",
-      "id": "238246",
-      "match": "/(?<=\\()\"div\"(?=,\\{className:\\i\\(\\)\\(\\i\\?\\i\\.mobileApp:\\i.app\\))/"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
