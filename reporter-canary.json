@@ -2,8 +2,20 @@
   "badPatches": [],
   "slowPatches": [
     {
+      "plugin": "WebContextMenus",
+      "type": "took 6ms",
+      "id": "998502",
+      "match": "/canCopyImage\\(.+?(?=return\"function\"==typeof \\i\\.clipboard\\.copyImage)/"
+    },
+    {
+      "plugin": "AccountPanelServerProfile",
+      "type": "took 8.5ms",
+      "id": "720734",
+      "match": "/\\.AVATAR,children:.+?onRequestClose:\\(\\)=>\\{/"
+    },
+    {
       "plugin": "HideServers",
-      "type": "took 5.3ms",
+      "type": "took 6.8ms",
       "id": "416568",
       "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
     }
