@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "Dearrow",
+      "type": "took 5.6ms",
+      "id": "446411",
+      "match": "/children:\\[(?=null!=\\i\\?(\\i)\\.renderSuppressButton)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
