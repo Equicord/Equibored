@@ -1,8 +1,17 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "AccountPanelServerProfile",
+      "type": "took 6.2ms",
+      "id": "720734",
+      "match": "/\\.AVATAR,children:.+?onRequestClose:\\(\\)=>\\{/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": []
+  "badWebpackFinds": [
+    "findByProps(\"modalFooterShopButton\")"
+  ]
 }
