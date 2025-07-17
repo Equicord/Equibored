@@ -1,5 +1,12 @@
 {
-  "badPatches": [],
+  "badPatches": [
+    {
+      "plugin": "FakeProfileThemesAndEffects",
+      "type": "found no module",
+      "id": "-",
+      "match": "\"DefaultCustomizationSections\""
+    }
+  ],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
