@@ -7,20 +7,7 @@
       "match": "\"DefaultCustomizationSections\""
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "QuestFocused",
-      "type": "took 5.9ms",
-      "id": "963123",
-      "match": "/(?<=case \\i\\.\\i\\.PAUSED:.{0,25})\\i\\.current\\.pause\\(\\),/"
-    },
-    {
-      "plugin": "HideServers",
-      "type": "took 11ms",
-      "id": "416568",
-      "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
