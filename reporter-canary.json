@@ -7,14 +7,7 @@
       "match": "\"DefaultCustomizationSections\""
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "HideServers",
-      "type": "took 5.8ms",
-      "id": "416568",
-      "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
