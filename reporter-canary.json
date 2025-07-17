@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "AccountPanelServerProfile",
+      "type": "took 5.7ms",
+      "id": "720734",
+      "match": "/(?<=#{intl::SET_STATUS}\\),)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
