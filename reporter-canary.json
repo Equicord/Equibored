@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "SilentTyping",
+      "type": "took 8.6ms",
+      "id": "785232",
+      "match": "/isTyping:.+?([,}].*?\\))/g"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
