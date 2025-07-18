@@ -4,7 +4,5 @@
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": [
-    "findByProps(\"modalFooterShopButton\")"
-  ]
+  "badWebpackFinds": []
 }
