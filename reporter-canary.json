@@ -1,6 +1,19 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "ContextMenuAPI",
+      "type": "took 12.3ms",
+      "id": "330150",
+      "match": "/navId:(?=.+?([,}].*?\\)))/g"
+    },
+    {
+      "plugin": "HideServers",
+      "type": "took 5.6ms",
+      "id": "416568",
+      "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
