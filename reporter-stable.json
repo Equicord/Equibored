@@ -1,13 +1,13 @@
 {
-  "badPatches": [],
-  "slowPatches": [
+  "badPatches": [
     {
       "plugin": "HideServers",
-      "type": "took 9.3ms",
+      "type": "had no effect",
       "id": "416568",
-      "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:.{0,100}?)(\\i)(\\.map\\(.{5,30}\\}\\))/"
+      "match": "/children:(\\i)(\\.map\\(.{0,30}\\}\\))/"
     }
   ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
