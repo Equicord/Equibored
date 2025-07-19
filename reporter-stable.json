@@ -1,24 +1,11 @@
 {
-  "badPatches": [
-    {
-      "plugin": "HideServers",
-      "type": "had no effect",
-      "id": "416568",
-      "match": "/(?<=gap:\"xs\",children:)(\\i)(\\.map\\(.{0,30}\\}\\))/"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [
     {
       "plugin": "FakeNitro",
-      "type": "took 6.1ms",
+      "type": "took 5.9ms",
       "id": "74538",
       "match": "/(?<=canUsePremiumAppIcons:)\\i/"
-    },
-    {
-      "plugin": "UwUifier",
-      "type": "took 8.5ms",
-      "id": "938537",
-      "match": "/(?<=.defaultProps\\)void 0.{0,60})(\\i)\\)/"
     }
   ],
   "badStarts": [],
