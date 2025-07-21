@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "ContextMenuAPI",
+      "type": "took 5.8ms",
+      "id": "999466",
+      "match": "/navId:(?=.+?([,}].*?\\)))/g"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
