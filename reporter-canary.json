@@ -1,5 +1,12 @@
 {
-  "badPatches": [],
+  "badPatches": [
+    {
+      "plugin": "StatusPresets",
+      "type": "had no effect",
+      "id": "211065",
+      "match": "/cancelButton,children:\\i\\.\\i\\.string\\(\\i\\.\\i#{intl::CANCEL}\\)\\}\\)/"
+    }
+  ],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
