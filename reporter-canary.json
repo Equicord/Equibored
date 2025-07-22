@@ -11,5 +11,7 @@
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": []
+  "badWebpackFinds": [
+    "waitForComponent(\".error]:this.hasError()\")"
+  ]
 }
