@@ -1,5 +1,12 @@
 {
-  "badPatches": [],
+  "badPatches": [
+    {
+      "plugin": "GreetStickerPicker",
+      "type": "had no effect",
+      "id": "814820",
+      "match": "/innerClassName:\\i\\.welcomeCTAButton,(?<={channel:\\i,message:\\i}=(\\i).{0,400}?)/"
+    }
+  ],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
