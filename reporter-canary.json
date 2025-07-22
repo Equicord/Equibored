@@ -9,7 +9,9 @@
   ],
   "slowPatches": [],
   "badStarts": [],
-  "otherErrors": [],
+  "otherErrors": [
+    "%c[LoginQRSocket] \nfont-weight: bold;\ncolor: purple;\n Could not complete QR code login, trying to restart with a new QR code."
+  ],
   "ignoredErrors": [],
   "badWebpackFinds": []
 }
