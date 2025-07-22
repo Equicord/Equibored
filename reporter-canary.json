@@ -1,21 +1,8 @@
 {
   "badPatches": [],
-  "slowPatches": [
-    {
-      "plugin": "FakeNitro",
-      "type": "took 5.8ms",
-      "id": "74538",
-      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
-  "otherErrors": [
-    "ChunkLoadError: Loading chunk 22986 failed.\n(error: https://canary.discord.com/assets/431c70ab13c4e416.js)",
-    "ChunkLoadError: Loading chunk 20117 failed.\n(error: https://canary.discord.com/assets/7d15a472c2a24644.js)",
-    "ChunkLoadError: Loading chunk 20117 failed.\n(error: https://canary.discord.com/assets/7d15a472c2a24644.js)",
-    "ChunkLoadError: Loading css chunk 85342 failed.\n(error: undefined)\n__webpack_require__.f.css (https://canary.discord.com/assets/web.bf25333342e17df7.js:12:14715849)\nhttps://canary.discord.com/assets/web.bf25333342e17df7.js:12:14663773\nArray.reduce (<anonymous>)",
-    "NetworkError: Failed to execute 'importScripts' on 'WorkerGlobalScope': The script at 'https://canary.discord.com/assets/ab0c93a28a7db47d.js' failed to load.\nt.f.i (https://canary.discord.com/assets/b46368c3fa0a05d6.js:1:3055)\nhttps://canary.discord.com/assets/b46368c3fa0a05d6.js:1:2226"
-  ],
+  "otherErrors": [],
   "ignoredErrors": [],
   "badWebpackFinds": []
 }
