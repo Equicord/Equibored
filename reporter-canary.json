@@ -1,13 +1,6 @@
 {
   "badPatches": [],
-  "slowPatches": [
-    {
-      "plugin": "WebContextMenus",
-      "type": "took 6.3ms",
-      "id": "343602",
-      "match": "/\\b\\i\\.\\i\\.(copy|cut|paste)/g"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
