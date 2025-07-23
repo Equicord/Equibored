@@ -1,5 +1,12 @@
 {
-  "badPatches": [],
+  "badPatches": [
+    {
+      "plugin": "SearchFix",
+      "type": "had no effect",
+      "id": "768119",
+      "match": "/(\\i)\\.offset=null!=\\((\\i)=(\\i)\\.offset\\)\\?(\\i):0/i"
+    }
+  ],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
