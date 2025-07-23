@@ -1,12 +1,5 @@
 {
-  "badPatches": [
-    {
-      "plugin": "AllCallTimers",
-      "type": "had no effect",
-      "id": "597998",
-      "match": "/(?<=user:(\\i).*?)iconGroup,children:\\[/"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
