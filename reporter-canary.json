@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "StatusPresets",
+      "type": "took 6.4ms",
+      "id": "211065",
+      "match": "/cancelButton,(children|text):\\i\\.\\i\\.string\\(\\i\\.\\i#{intl::CANCEL}\\)\\}\\)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
