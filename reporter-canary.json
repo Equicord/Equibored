@@ -1,13 +1,6 @@
 {
   "badPatches": [],
-  "slowPatches": [
-    {
-      "plugin": "UnlockedAvatarZoom",
-      "type": "took 6ms",
-      "id": "712451",
-      "match": "/maxValue:\\d/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
