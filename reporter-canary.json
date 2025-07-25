@@ -1,13 +1,6 @@
 {
   "badPatches": [],
-  "slowPatches": [
-    {
-      "plugin": "FakeNitro",
-      "type": "took 5.4ms",
-      "id": "74538",
-      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
