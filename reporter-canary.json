@@ -1,6 +1,19 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "FakeNitro",
+      "type": "took 5.1ms",
+      "id": "74538",
+      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
+    },
+    {
+      "plugin": "WallpaperFree",
+      "type": "took 8.4ms",
+      "id": "287746",
+      "match": "/return.{1,150},(?=keyboardModeEnabled)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
