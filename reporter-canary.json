@@ -1,19 +1,13 @@
 {
-  "badPatches": [
+  "badPatches": [],
+  "slowPatches": [
     {
-      "plugin": "MoreStickers",
-      "type": "had no effect",
-      "id": "728386",
-      "match": "/(children:\\(0,\\i\\.jsx\\)\\()(.{0,10})({innerClassName.{10,30}\\.stickerButton)/"
-    },
-    {
-      "plugin": "BetterUploadButton",
-      "type": "had no effect",
-      "id": "974251",
-      "match": "/\\.attachButtonInner,\"aria-label\":.{0,50},onDoubleClick:(.+?:void 0),.{0,100}\\},(\\i)\\).{0,100}children:\\i/"
+      "plugin": "FakeNitro",
+      "type": "took 6.1ms",
+      "id": "74538",
+      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
     }
   ],
-  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
