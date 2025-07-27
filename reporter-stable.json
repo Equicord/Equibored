@@ -1,12 +1,5 @@
 {
-  "badPatches": [
-    {
-      "plugin": "MoreStickers",
-      "type": "had no effect",
-      "id": "728386",
-      "match": "/(children:\\(0,\\i\\.jsx\\)\\()(.{0,20})({className.{10,30}\\.stickerButton)/"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
