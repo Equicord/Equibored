@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "FriendsSince",
+      "type": "took 6.3ms",
+      "id": "277117",
+      "match": "/#{intl::USER_PROFILE_MEMBER_SINCE}\\),.{0,100}userId:(\\i\\.id)}\\)}\\)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
