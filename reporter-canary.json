@@ -1,5 +1,12 @@
 {
-  "badPatches": [],
+  "badPatches": [
+    {
+      "plugin": "UnlimitedAccounts",
+      "type": "had no effect",
+      "id": "71509",
+      "match": "/(let \\i=)\\d+(,\\i=\"switch-accounts-modal\",\\i=\"multiaccount_cta_tooltip_seen\")/"
+    }
+  ],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
