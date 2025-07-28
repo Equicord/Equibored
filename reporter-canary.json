@@ -34,9 +34,7 @@
   ],
   "slowPatches": [],
   "badStarts": [],
-  "otherErrors": [
-    "Cannot read properties of undefined (reading 'call')"
-  ],
+  "otherErrors": [],
   "ignoredErrors": [],
   "badWebpackFinds": []
 }
