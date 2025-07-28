@@ -8,9 +8,10 @@
     },
     {
       "plugin": "CustomUserColors",
-      "type": "had no effect",
+      "type": "errored",
       "id": "407661",
-      "match": "/(,color:)(\\i),/"
+      "match": "/(,colorString:)(\\i),/",
+      "error": "Invalid destructuring assignment target"
     },
     {
       "plugin": "ShowHiddenThings",
@@ -35,7 +36,5 @@
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": [
-    "waitFor(\"getRole\", \"getRoles\")"
-  ]
+  "badWebpackFinds": []
 }
