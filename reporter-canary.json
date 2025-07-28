@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "BetterSessions",
+      "type": "took 10.6ms",
+      "id": "36192",
+      "match": "/\\.currentSession:null\\),children:\\[(?<=,icon:(\\i)\\}.+?)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
