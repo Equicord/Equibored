@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "QuestFocused",
+      "type": "took 6.5ms",
+      "id": "963123",
+      "match": "/(?<=case \\i\\.\\i\\.PAUSED:.{0,25})\\i\\.current\\.pause\\(\\),/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
