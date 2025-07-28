@@ -1,13 +1,19 @@
 {
-  "badPatches": [],
-  "slowPatches": [
+  "badPatches": [
     {
-      "plugin": "ServerListAPI",
-      "type": "took 13.7ms",
-      "id": "416568",
-      "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:)\\i\\.map\\(.{0,50}\\.length\\)/"
+      "plugin": "AlwaysExpandProfile",
+      "type": "had no effect",
+      "id": "601665",
+      "match": "/(?<=user:(\\i).*?\"PRESS_VIEW_PROFILE\".{0,50})return/"
+    },
+    {
+      "plugin": "AlwaysExpandProfile",
+      "type": "had no effect",
+      "id": "738953",
+      "match": "/(?<=user:(\\i).*?\"PRESS_VIEW_PROFILE\".{0,50})return/"
     }
   ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
