@@ -1,16 +1,10 @@
 {
   "badPatches": [
     {
-      "plugin": "AlwaysExpandProfile",
+      "plugin": "SearchFix",
       "type": "had no effect",
-      "id": "601665",
-      "match": "/(?<=user:(\\i).*?\"PRESS_VIEW_PROFILE\".{0,50})return/"
-    },
-    {
-      "plugin": "AlwaysExpandProfile",
-      "type": "had no effect",
-      "id": "738953",
-      "match": "/(?<=user:(\\i).*?\"PRESS_VIEW_PROFILE\".{0,50})return/"
+      "id": "862825",
+      "match": "/\\i\\.searchResultsQuery=(\\i)/"
     }
   ],
   "slowPatches": [],
