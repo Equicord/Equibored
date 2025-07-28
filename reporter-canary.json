@@ -2,10 +2,10 @@
   "badPatches": [],
   "slowPatches": [
     {
-      "plugin": "FakeNitro",
-      "type": "took 6.5ms",
-      "id": "74538",
-      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
+      "plugin": "ServerListAPI",
+      "type": "took 13.7ms",
+      "id": "416568",
+      "match": "/(?<=#{intl::SERVERS}\\),gap:\"xs\",children:)\\i\\.map\\(.{0,50}\\.length\\)/"
     }
   ],
   "badStarts": [],
