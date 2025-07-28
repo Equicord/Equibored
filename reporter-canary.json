@@ -7,13 +7,6 @@
       "match": "/(?<=roleName:\\i,)color:/"
     },
     {
-      "plugin": "CustomUserColors",
-      "type": "errored",
-      "id": "407661",
-      "match": "/(,colorString:)(\\i),/",
-      "error": "Invalid destructuring assignment target"
-    },
-    {
       "plugin": "ShowHiddenThings",
       "type": "had no effect",
       "id": "787469",
