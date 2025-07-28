@@ -7,26 +7,7 @@
       "match": "/(let \\i=)\\d+(,\\i=\"switch-accounts-modal\",\\i=\"multiaccount_cta_tooltip_seen\")/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "StatusPresets",
-      "type": "took 5.9ms",
-      "id": "211065",
-      "match": "/cancelButton,(children|text):\\i\\.\\i\\.string\\(\\i\\.\\i#{intl::CANCEL}\\)\\}\\)/"
-    },
-    {
-      "plugin": "QuestFocused",
-      "type": "took 6.4ms",
-      "id": "963123",
-      "match": "/(?<=case \\i\\.\\i\\.PAUSED:.{0,25})\\i\\.current\\.pause\\(\\),/"
-    },
-    {
-      "plugin": "KeywordNotify",
-      "type": "took 6.5ms",
-      "id": "791914",
-      "match": "/,(\\i\\?\\(0,\\i\\.jsxs\\)\\(\\i\\.\\i\\i\\.Item)/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
