@@ -7,6 +7,36 @@
       "match": "/(?<=roleName:\\i,)color:/"
     },
     {
+      "plugin": "ShowHiddenChannels",
+      "type": "had no effect",
+      "id": "473403",
+      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
+    },
+    {
+      "plugin": "ShowHiddenChannels",
+      "type": "had no effect",
+      "id": "473403",
+      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
+    },
+    {
+      "plugin": "TypingIndicator",
+      "type": "had no effect",
+      "id": "473403",
+      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
+    },
+    {
+      "plugin": "FastDeleteChannels",
+      "type": "had no effect",
+      "id": "473403",
+      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
+    },
+    {
+      "plugin": "UnreadCountBadge",
+      "type": "had no effect",
+      "id": "473403",
+      "match": "/.name,{.{0,140}\\.children.+?:null/"
+    },
+    {
       "plugin": "ShowHiddenThings",
       "type": "had no effect",
       "id": "787469",
