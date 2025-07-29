@@ -25,14 +25,7 @@
       "match": "/sortBy.{0,30}?\\.filter\\(\\i=>(?<=channel:(\\i).+?)/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "ContextMenuAPI",
-      "type": "took 22.1ms",
-      "id": "46577",
-      "match": "/navId:(?=.+?([,}].*?\\)))/g"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
