@@ -2,10 +2,9 @@
   "badPatches": [
     {
       "plugin": "CustomUserColors",
-      "type": "errored",
+      "type": "had no effect",
       "id": "407661",
-      "match": "/(,colorString:)(\\i),/",
-      "error": "Invalid destructuring assignment target"
+      "match": "/(className:.{0,15},colorString:)(\\i),/"
     }
   ],
   "slowPatches": [],
