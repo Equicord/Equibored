@@ -1,12 +1,6 @@
 {
   "badPatches": [
     {
-      "plugin": "IrcColors",
-      "type": "had no effect",
-      "id": "276264",
-      "match": "/(?<=roleName:\\i,)color:/"
-    },
-    {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
       "id": "473403",
@@ -37,22 +31,10 @@
       "match": "/.name,{.{0,140}\\.children.+?:null/"
     },
     {
-      "plugin": "ShowHiddenThings",
-      "type": "had no effect",
-      "id": "787469",
-      "match": "/(role:)\\i(?=,guildId.{0,100}role:(\\i\\[))/"
-    },
-    {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
       "id": "734386",
       "match": "/ADMINISTRATOR\\)\\|\\|(?<=context:(\\i)}.+?)(?=(.+?)VIEW_CHANNEL)/"
-    },
-    {
-      "plugin": "ShowHiddenChannels",
-      "type": "had no effect",
-      "id": "734386",
-      "match": "/sortBy.{0,30}?\\.filter\\(\\i=>(?<=channel:(\\i).+?)/"
     }
   ],
   "slowPatches": [],
