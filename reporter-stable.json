@@ -3,6 +3,36 @@
     {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
+      "id": "473403",
+      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
+    },
+    {
+      "plugin": "ShowHiddenChannels",
+      "type": "had no effect",
+      "id": "473403",
+      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
+    },
+    {
+      "plugin": "TypingIndicator",
+      "type": "had no effect",
+      "id": "473403",
+      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
+    },
+    {
+      "plugin": "FastDeleteChannels",
+      "type": "had no effect",
+      "id": "473403",
+      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
+    },
+    {
+      "plugin": "UnreadCountBadge",
+      "type": "had no effect",
+      "id": "473403",
+      "match": "/.name,{.{0,140}\\.children.+?:null/"
+    },
+    {
+      "plugin": "ShowHiddenChannels",
+      "type": "had no effect",
       "id": "734386",
       "match": "/ADMINISTRATOR\\)\\|\\|(?<=context:(\\i)}.+?)(?=(.+?)VIEW_CHANNEL)/"
     }
