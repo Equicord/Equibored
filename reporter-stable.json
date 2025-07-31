@@ -1,6 +1,18 @@
 {
   "badPatches": [
     {
+      "plugin": "YouTubeMusicControls",
+      "type": "had no effect",
+      "id": "720734",
+      "match": "/Vencord\\.Plugins\\.plugins\\[\"SpotifyControls\"\\]\\.PanelWrapper/"
+    },
+    {
+      "plugin": "YouTubeMusicControls",
+      "type": "had no effect",
+      "id": "720734",
+      "match": "/(?<=\\i\\.jsxs?\\)\\()(\\i),{(?=[^}]*?userTag:\\i,hidePrivateData:)/"
+    },
+    {
       "plugin": "TypingTweaks",
       "type": "had no effect",
       "id": "738619",
