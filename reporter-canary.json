@@ -1,6 +1,12 @@
 {
   "badPatches": [
     {
+      "plugin": "TypingTweaks",
+      "type": "had no effect",
+      "id": "738619",
+      "match": "/(?<=children:\\[(\\i)\\.length>0.{0,300}?\"aria-atomic\":!0,children:)\\i/"
+    },
+    {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
       "id": "473403",
