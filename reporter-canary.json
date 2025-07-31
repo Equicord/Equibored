@@ -7,12 +7,6 @@
       "match": "/(?<=\\.\\i\\.PREMIUM_PURCHASE&&\\i)(?<=avatarDecoration:(\\i).+?)/"
     },
     {
-      "plugin": "TypingTweaks",
-      "type": "had no effect",
-      "id": "738619",
-      "match": "/(?<=children:\\[(\\i)\\.length>0.{0,500}?\"aria-atomic\":!0,children:)\\i/"
-    },
-    {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
       "id": "734386",
