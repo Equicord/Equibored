@@ -1,6 +1,12 @@
 {
   "badPatches": [
     {
+      "plugin": "Decor",
+      "type": "had no effect",
+      "id": "818611",
+      "match": "/(?<=\\.\\i\\.PREMIUM_PURCHASE&&\\i)(?<=avatarDecoration:(\\i).+?)/"
+    },
+    {
       "plugin": "TypingTweaks",
       "type": "had no effect",
       "id": "738619",
