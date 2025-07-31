@@ -1,18 +1,6 @@
 {
   "badPatches": [
     {
-      "plugin": "YouTubeMusicControls",
-      "type": "had no effect",
-      "id": "720734",
-      "match": "/Vencord\\.Plugins\\.plugins\\[\"SpotifyControls\"\\]\\.PanelWrapper/"
-    },
-    {
-      "plugin": "YouTubeMusicControls",
-      "type": "had no effect",
-      "id": "720734",
-      "match": "/(?<=\\i\\.jsxs?\\)\\()(\\i),{(?=[^}]*?userTag:\\i,hidePrivateData:)/"
-    },
-    {
       "plugin": "TypingTweaks",
       "type": "had no effect",
       "id": "738619",
@@ -21,48 +9,11 @@
     {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
-      "id": "473403",
-      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
-    },
-    {
-      "plugin": "ShowHiddenChannels",
-      "type": "had no effect",
-      "id": "473403",
-      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
-    },
-    {
-      "plugin": "TypingIndicator",
-      "type": "had no effect",
-      "id": "473403",
-      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
-    },
-    {
-      "plugin": "FastDeleteChannels",
-      "type": "had no effect",
-      "id": "473403",
-      "match": "/\\.name,{.{0,140}\\.children.+?:null(?<=,channel:(\\i).+?)/"
-    },
-    {
-      "plugin": "UnreadCountBadge",
-      "type": "had no effect",
-      "id": "473403",
-      "match": "/.name,{.{0,140}\\.children.+?:null/"
-    },
-    {
-      "plugin": "ShowHiddenChannels",
-      "type": "had no effect",
       "id": "734386",
       "match": "/ADMINISTRATOR\\)\\|\\|(?<=context:(\\i)}.+?)(?=(.+?)VIEW_CHANNEL)/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "FakeNitro",
-      "type": "took 6.2ms",
-      "id": "74538",
-      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
