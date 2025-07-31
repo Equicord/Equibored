@@ -1,6 +1,12 @@
 {
   "badPatches": [
     {
+      "plugin": "TypingTweaks",
+      "type": "had no effect",
+      "id": "738619",
+      "match": "/(?<=children:\\[(\\i)\\.length>0.{0,300}?\"aria-atomic\":!0,children:)\\i/"
+    },
+    {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
       "id": "473403",
@@ -37,20 +43,7 @@
       "match": "/ADMINISTRATOR\\)\\|\\|(?<=context:(\\i)}.+?)(?=(.+?)VIEW_CHANNEL)/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "FakeNitro",
-      "type": "took 5.8ms",
-      "id": "74538",
-      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
-    },
-    {
-      "plugin": "DisableCallIdle",
-      "type": "took 5.3ms",
-      "id": "444961",
-      "match": "/(?<=_initialize\\(\\){)/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
