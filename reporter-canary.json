@@ -64,9 +64,15 @@
   "slowPatches": [
     {
       "plugin": "FakeNitro",
-      "type": "took 6.2ms",
+      "type": "took 6.1ms",
       "id": "74538",
       "match": "/(?<=canUsePremiumAppIcons:)\\i/"
+    },
+    {
+      "plugin": "WallpaperFree",
+      "type": "took 5.3ms",
+      "id": "287746",
+      "match": "/}\\)]}\\)](?=.{1,30}messages-)/"
     }
   ],
   "badStarts": [],
