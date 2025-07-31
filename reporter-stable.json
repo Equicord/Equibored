@@ -40,9 +40,15 @@
   "slowPatches": [
     {
       "plugin": "FakeNitro",
-      "type": "took 7ms",
+      "type": "took 5.8ms",
       "id": "74538",
       "match": "/(?<=canUsePremiumAppIcons:)\\i/"
+    },
+    {
+      "plugin": "DisableCallIdle",
+      "type": "took 5.3ms",
+      "id": "444961",
+      "match": "/(?<=_initialize\\(\\){)/"
     }
   ],
   "badStarts": [],
