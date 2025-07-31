@@ -10,7 +10,7 @@
       "plugin": "TypingTweaks",
       "type": "had no effect",
       "id": "738619",
-      "match": "/(?<=children:\\[(\\i)\\.length>0.{0,300}?\"aria-atomic\":!0,children:)\\i/"
+      "match": "/(?<=children:\\[(\\i)\\.length>0.{0,500}?\"aria-atomic\":!0,children:)\\i/"
     },
     {
       "plugin": "ShowHiddenChannels",
@@ -25,14 +25,7 @@
       "match": "/(?<=,channel:\\i\\}\\)\\.then\\().+?(?=return \\i\\.content!==this\\.props\\.message\\.content&&\\i\\((.+?)\\))/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "ContextMenuAPI",
-      "type": "took 6.1ms",
-      "id": "621060",
-      "match": "/navId:(?=.+?([,}].*?\\)))/g"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
