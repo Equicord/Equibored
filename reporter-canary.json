@@ -25,7 +25,14 @@
       "match": "/(?<=,channel:\\i\\}\\)\\.then\\().+?(?=return \\i\\.content!==this\\.props\\.message\\.content&&\\i\\((.+?)\\))/"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "ContextMenuAPI",
+      "type": "took 6.1ms",
+      "id": "621060",
+      "match": "/navId:(?=.+?([,}].*?\\)))/g"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
