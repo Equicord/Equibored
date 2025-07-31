@@ -37,14 +37,7 @@
       "match": "/ADMINISTRATOR\\)\\|\\|(?<=context:(\\i)}.+?)(?=(.+?)VIEW_CHANNEL)/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "PermissionFreeWill",
-      "type": "took 5.4ms",
-      "id": "156699",
-      "match": "/{(?:\\i:(?:function\\(\\){return |\\(\\)=>)\\i}?,?){2}}/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
