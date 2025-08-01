@@ -25,12 +25,6 @@
       "match": "/Vencord\\.Plugins\\.plugins\\[\"SpotifyControls\"\\]\\.PanelWrapper/"
     },
     {
-      "plugin": "ShowMeYourName",
-      "type": "had no effect",
-      "id": "534469",
-      "match": "/(\\(\\i,\\i,\\i\\);)(let \\i=\\i.id===\\i(?:.{0,300}?)hovering:(\\i))/"
-    },
-    {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
       "id": "734386",
@@ -43,18 +37,9 @@
       "match": "/(?<=,channel:\\i\\}\\)\\.then\\().+?(?=return \\i\\.content!==this\\.props\\.message\\.content&&\\i\\((.+?)\\))/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "QuestFocused",
-      "type": "took 7.5ms",
-      "id": "963123",
-      "match": "/(?<=case \\i\\.\\i\\.PAUSED:.{0,25})\\i\\.current\\.pause\\(\\),/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": [
-    "find((module) => module.resolve && module.id && module.keys().some((key) => key.endsWith(\".mp3\"))...)"
-  ]
+  "badWebpackFinds": []
 }

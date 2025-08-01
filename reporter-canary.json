@@ -25,12 +25,6 @@
       "match": "/Vencord\\.Plugins\\.plugins\\[\"SpotifyControls\"\\]\\.PanelWrapper/"
     },
     {
-      "plugin": "ShowMeYourName",
-      "type": "had no effect",
-      "id": "534469",
-      "match": "/(\\(\\i,\\i,\\i\\);)(let \\i=\\i.id===\\i(?:.{0,300}?)hovering:(\\i))/"
-    },
-    {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
       "id": "734386",
@@ -47,7 +41,5 @@
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": [
-    "find((module) => module.resolve && module.id && module.keys().some((key) => key.endsWith(\".mp3\"))...)"
-  ]
+  "badWebpackFinds": []
 }
