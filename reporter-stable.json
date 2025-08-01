@@ -1,22 +1,29 @@
 {
   "badPatches": [
     {
+      "plugin": "ShowMeYourName",
+      "type": "had no effect",
+      "id": "819366",
+      "match": "/(\"@\"\\.concat\\(null!=\\i\\?\\i:\\i\\))/"
+    },
+    {
+      "plugin": "ShowMeYourName",
+      "type": "had no effect",
+      "id": "534469",
+      "match": "/(\\(\\i,\\i,\\i\\);)(let \\i=\\i.id===\\i(?:.{0,300}?)hovering:(\\i))/"
+    },
+    {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
       "id": "734386",
       "match": "/ADMINISTRATOR\\)\\|\\|(?<=context:(\\i)}.+?)(?=(.+?)VIEW_CHANNEL)/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "FakeNitro",
-      "type": "took 6.1ms",
-      "id": "74538",
-      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": []
+  "badWebpackFinds": [
+    "find((module) => module.resolve && module.id && module.keys().some((key) => key.endsWith(\".mp3\"))...)"
+  ]
 }
