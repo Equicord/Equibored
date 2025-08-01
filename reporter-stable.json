@@ -1,6 +1,12 @@
 {
   "badPatches": [
     {
+      "plugin": "Decor",
+      "type": "had no effect",
+      "id": "818611",
+      "match": "/(?<=\\.\\i\\.PREMIUM_PURCHASE&&\\i)(?<=avatarDecoration:(\\i).+?)/"
+    },
+    {
       "plugin": "ShowMeYourName",
       "type": "had no effect",
       "id": "819366",
@@ -17,6 +23,12 @@
       "type": "had no effect",
       "id": "734386",
       "match": "/ADMINISTRATOR\\)\\|\\|(?<=context:(\\i)}.+?)(?=(.+?)VIEW_CHANNEL)/"
+    },
+    {
+      "plugin": "MessageEventsAPI",
+      "type": "had no effect",
+      "id": "955384",
+      "match": "/(?<=,channel:\\i\\}\\)\\.then\\().+?(?=return \\i\\.content!==this\\.props\\.message\\.content&&\\i\\((.+?)\\))/"
     }
   ],
   "slowPatches": [],
