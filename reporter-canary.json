@@ -10,19 +10,7 @@
       "plugin": "ShowMeYourName",
       "type": "had no effect",
       "id": "819366",
-      "match": "/(\"@\"\\.concat\\(null!=\\i\\?\\i:\\i\\))/"
-    },
-    {
-      "plugin": "YouTubeMusicControls",
-      "type": "had no effect",
-      "id": "720734",
-      "match": "/(?<=\\i\\.jsxs?\\)\\()(\\i),{(?=[^}]*?userTag:\\i,hidePrivateData:)/"
-    },
-    {
-      "plugin": "YouTubeMusicControls",
-      "type": "had no effect",
-      "id": "720734",
-      "match": "/Vencord\\.Plugins\\.plugins\\[\"SpotifyControls\"\\]\\.PanelWrapper/"
+      "match": "/(?<=onContextMenu:\\i\\},\\i\\),{children:)(.{0,50}:\\i\\))/"
     },
     {
       "plugin": "ShowHiddenChannels",
