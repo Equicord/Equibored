@@ -19,20 +19,7 @@
       "match": "/(?<=,channel:\\i\\}\\)\\.then\\().+?(?=return \\i\\.content!==this\\.props\\.message\\.content&&\\i\\((.+?)\\))/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "WallpaperFree",
-      "type": "took 5.1ms",
-      "id": "287746",
-      "match": "/}\\)]}\\)](?=.{1,30}messages-)/"
-    },
-    {
-      "plugin": "ShowHiddenChannels",
-      "type": "took 5.1ms",
-      "id": "302270",
-      "match": "/(?<=&&)\\(0,\\i\\.jsxs?\\).{0,180}\\.buttonIcon/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
