@@ -10,7 +10,7 @@
       "plugin": "ShowMeYourName",
       "type": "had no effect",
       "id": "819366",
-      "match": "/(?<=onContextMenu:\\i\\},\\i\\),{children:)(.{0,50}:\\i\\))/"
+      "match": "/(?<=onContextMenu:\\i\\},\\i\\),{children:)(.{0,200}:\\i\\))/"
     },
     {
       "plugin": "ShowHiddenChannels",
