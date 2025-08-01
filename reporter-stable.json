@@ -25,7 +25,14 @@
       "match": "/(?<=,channel:\\i\\}\\)\\.then\\().+?(?=return \\i\\.content!==this\\.props\\.message\\.content&&\\i\\((.+?)\\))/"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "BetterSettings",
+      "type": "took 5.2ms",
+      "id": "923422",
+      "match": "/(EXPERIMENTS:.+?)(\\(0,\\i.\\i\\)\\(\\))(?=\\.filter\\(\\i=>\\{let\\{section:\\i\\}=)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
