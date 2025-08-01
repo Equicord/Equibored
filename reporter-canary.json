@@ -43,14 +43,7 @@
       "match": "/(?<=,channel:\\i\\}\\)\\.then\\().+?(?=return \\i\\.content!==this\\.props\\.message\\.content&&\\i\\((.+?)\\))/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "ShowHiddenChannels",
-      "type": "took 6.5ms",
-      "id": "734386",
-      "match": "/getSortedRoles.+?\\.filter\\(\\i=>(?=!)/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
