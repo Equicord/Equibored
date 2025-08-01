@@ -7,12 +7,6 @@
       "match": "/(?<=\\.\\i\\.PREMIUM_PURCHASE&&\\i)(?<=avatarDecoration:(\\i).+?)/"
     },
     {
-      "plugin": "ShowMeYourName",
-      "type": "had no effect",
-      "id": "819366",
-      "match": "/(?<=onContextMenu:\\i\\},\\i\\),{children:)(.{0,200}:\\i\\))/"
-    },
-    {
       "plugin": "ShowHiddenChannels",
       "type": "had no effect",
       "id": "734386",
