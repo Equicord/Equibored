@@ -19,7 +19,20 @@
       "match": "/(?<=,channel:\\i\\}\\)\\.then\\().+?(?=return \\i\\.content!==this\\.props\\.message\\.content&&\\i\\((.+?)\\))/"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "FakeProfileThemesAndEffects",
+      "type": "took 6.4ms",
+      "id": "191564",
+      "match": "/(function \\i\\([^)]*\\){(?:.(?!function ))*\\.modalContent,(?:.(?!function ))*}).*(?=}\\))/"
+    },
+    {
+      "plugin": "ViewIcons",
+      "type": "took 8.3ms",
+      "id": "753898",
+      "match": "/(?<=SIZE_80,)(?=src:(.+?\\))[,}])/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],

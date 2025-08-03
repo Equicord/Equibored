@@ -19,7 +19,14 @@
       "match": "/(?<=,channel:\\i\\}\\)\\.then\\().+?(?=return \\i\\.content!==this\\.props\\.message\\.content&&\\i\\((.+?)\\))/"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "ShowHiddenChannels",
+      "type": "took 9ms",
+      "id": "823748",
+      "match": "/(?<=renderSidebar\\(\\){)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
