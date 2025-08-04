@@ -13,14 +13,7 @@
       "match": "/(?<=\\i\\.length-)1(?=\\]=.{0,60}renderPopout)(?<=(\\i)=\\i\\.length-\\i.+?)/"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "WebContextMenus",
-      "type": "took 7.1ms",
-      "id": "26737",
-      "match": "/\\i\\.isPlatformEmbedded/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
