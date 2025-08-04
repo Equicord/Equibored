@@ -1,36 +1,17 @@
 {
-  "badPatches": [
-    {
-      "plugin": "Decor",
-      "type": "had no effect",
-      "id": "818611",
-      "match": "/(?<=\\.\\i\\.PREMIUM_PURCHASE&&\\i)(?<=avatarDecoration:(\\i).+?)/"
-    },
-    {
-      "plugin": "ShowHiddenChannels",
-      "type": "had no effect",
-      "id": "734386",
-      "match": "/ADMINISTRATOR\\)\\|\\|(?<=context:(\\i)}.+?)(?=(.+?)VIEW_CHANNEL)/"
-    },
-    {
-      "plugin": "MessageEventsAPI",
-      "type": "had no effect",
-      "id": "955384",
-      "match": "/(?<=,channel:\\i\\}\\)\\.then\\().+?(?=return \\i\\.content!==this\\.props\\.message\\.content&&\\i\\((.+?)\\))/"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [
     {
-      "plugin": "FakeProfileThemesAndEffects",
-      "type": "took 6.4ms",
-      "id": "191564",
-      "match": "/(function \\i\\([^)]*\\){(?:.(?!function ))*\\.modalContent,(?:.(?!function ))*}).*(?=}\\))/"
+      "plugin": "Questify",
+      "type": "took 5.6ms",
+      "id": "921349",
+      "match": "/(\\((\\i),\\i\\){)(var{options:\\i,)/"
     },
     {
-      "plugin": "ViewIcons",
-      "type": "took 8.3ms",
-      "id": "753898",
-      "match": "/(?<=SIZE_80,)(?=src:(.+?\\))[,}])/"
+      "plugin": "QuestFocused",
+      "type": "took 5.6ms",
+      "id": "963123",
+      "match": "/(?<=case \\i\\.\\i\\.PAUSED:.{0,25})\\i\\.current\\.pause\\(\\),/"
     }
   ],
   "badStarts": [],
