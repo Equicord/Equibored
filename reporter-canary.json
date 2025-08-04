@@ -11,6 +11,12 @@
       "type": "had no effect",
       "id": "318374",
       "match": "/(?<=\\i\\.length-)1(?=\\]=.{0,60}renderPopout)(?<=(\\i)=\\i\\.length-\\i.+?)/"
+    },
+    {
+      "plugin": "LoginWithQR",
+      "type": "found no module",
+      "id": "-",
+      "match": "useGenerateUserSettingsSections"
     }
   ],
   "slowPatches": [],
