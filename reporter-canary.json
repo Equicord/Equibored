@@ -1,12 +1,6 @@
 {
   "badPatches": [
     {
-      "plugin": "SilentTyping",
-      "type": "had no effect",
-      "id": "738619",
-      "match": "/(typingDots,children:)(\\[.{0,200}?}\\)\\])/"
-    },
-    {
       "plugin": "TypingTweaks",
       "type": "had no effect",
       "id": "738619",
