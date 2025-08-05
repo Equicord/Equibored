@@ -85,7 +85,14 @@
       "match": "toolbar:function"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "FakeNitro",
+      "type": "took 8.3ms",
+      "id": "74538",
+      "match": "/(?<=canUseClientThemes:)\\i/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
