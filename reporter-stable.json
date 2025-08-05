@@ -1,10 +1,40 @@
 {
   "badPatches": [
     {
+      "plugin": "NoModalAnimation",
+      "type": "had no effect",
+      "id": "287151",
+      "match": "/(\\i)=(200|300)/g"
+    },
+    {
+      "plugin": "SuperReactionTweaks",
+      "type": "had no effect",
+      "id": "960020",
+      "match": "/(\\i=>{.{50,100})(\\i\\(\\i,\\i\\))>=\\i/"
+    },
+    {
+      "plugin": "AllCallTimers",
+      "type": "had no effect",
+      "id": "597998",
+      "match": "/function \\i\\(\\)\\{.+:\"\"(?=.*?userId:(\\i))/"
+    },
+    {
+      "plugin": "NoticesAPI",
+      "type": "had no effect",
+      "id": "933429",
+      "match": "/(?<=function \\i\\(\\i\\){)return null!=(\\i)/"
+    },
+    {
       "plugin": "SilentTyping",
       "type": "had no effect",
       "id": "738619",
       "match": "/(typingDots,ref:\\i,children:)(\\[.{0,300}?}\\)\\])/"
+    },
+    {
+      "plugin": "ShowAllMessageButtons",
+      "type": "had no effect",
+      "id": "773176",
+      "match": "/(\\i)=\\i&&(!\\i.+?)/"
     }
   ],
   "slowPatches": [],
