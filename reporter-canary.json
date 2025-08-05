@@ -1,24 +1,5 @@
 {
-  "badPatches": [
-    {
-      "plugin": "ShowHiddenChannels",
-      "type": "had no effect",
-      "id": "318374",
-      "match": "/\\i>0(?=&&.{0,30}Math.min)/"
-    },
-    {
-      "plugin": "ShowHiddenChannels",
-      "type": "had no effect",
-      "id": "318374",
-      "match": "/(?<=\\i\\.length-)1(?=\\]=.{0,60}renderPopout)(?<=(\\i)=\\i\\.length-\\i.+?)/"
-    },
-    {
-      "plugin": "LoginWithQR",
-      "type": "found no module",
-      "id": "-",
-      "match": "useGenerateUserSettingsSections"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
