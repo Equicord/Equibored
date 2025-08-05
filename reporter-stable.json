@@ -1,5 +1,12 @@
 {
-  "badPatches": [],
+  "badPatches": [
+    {
+      "plugin": "ShowHiddenChannels",
+      "type": "had no effect",
+      "id": "318374",
+      "match": "/\\i>0(?=&&!\\i&&!\\i)/"
+    }
+  ],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
