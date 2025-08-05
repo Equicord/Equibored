@@ -19,7 +19,14 @@
       "match": "useGenerateUserSettingsSections"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "LoadingQuotes",
+      "type": "took 25.1ms",
+      "id": "935347",
+      "match": "/\"_eventLoadingText\".+?(?=(\\i)\\[.{0,10}\\.random)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
