@@ -1,10 +1,10 @@
 {
   "badPatches": [
     {
-      "plugin": "ShowHiddenChannels",
+      "plugin": "SilentTyping",
       "type": "had no effect",
-      "id": "318374",
-      "match": "/\\i>0(?=&&!\\i&&!\\i)/"
+      "id": "738619",
+      "match": "/(typingDots,ref:\\i,children:)(\\[.{0,300}?}\\)\\])/"
     }
   ],
   "slowPatches": [],
