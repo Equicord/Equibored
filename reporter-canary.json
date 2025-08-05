@@ -49,6 +49,12 @@
       "match": "/\\i.memo\\(function\\(\\i\\){/"
     },
     {
+      "plugin": "ReviewDB",
+      "type": "found no module",
+      "id": "-",
+      "match": ".MODAL,user:"
+    },
+    {
       "plugin": "EquicordToolbox",
       "type": "found no module",
       "id": "-",
