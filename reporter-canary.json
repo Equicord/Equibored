@@ -1,5 +1,18 @@
 {
-  "badPatches": [],
+  "badPatches": [
+    {
+      "plugin": "SilentTyping",
+      "type": "had no effect",
+      "id": "738619",
+      "match": "/(typingDots,children:)(\\[.{0,200}?}\\)\\])/"
+    },
+    {
+      "plugin": "TypingTweaks",
+      "type": "had no effect",
+      "id": "738619",
+      "match": "/(,{a:(\\i),b:(\\i),c:\\i}\\):\\i\\.length>3&&\\(\\i=)\\i\\.\\i\\.string\\(\\i\\.\\i#{intl::SEVERAL_USERS_TYPING}\\)(?<=(\\i)\\.length.+?)/"
+    }
+  ],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
