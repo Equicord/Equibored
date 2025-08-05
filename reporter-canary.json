@@ -19,14 +19,7 @@
       "match": ".MODAL,user:"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "FakeNitro",
-      "type": "took 8.2ms",
-      "id": "74538",
-      "match": "/(?<=canUseClientThemes:)\\i/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
