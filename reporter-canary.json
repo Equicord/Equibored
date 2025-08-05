@@ -1,15 +1,95 @@
 {
   "badPatches": [
     {
+      "plugin": "NoModalAnimation",
+      "type": "had no effect",
+      "id": "287151",
+      "match": "/200:300/g"
+    },
+    {
+      "plugin": "AllCallTimers",
+      "type": "had no effect",
+      "id": "597998",
+      "match": "/function\\(\\)\\{.+:\"\"(?=.*?userId:(\\i))/"
+    },
+    {
+      "plugin": "ShowHiddenChannels",
+      "type": "had no effect",
+      "id": "734386",
+      "match": "/MANAGE_ROLES.{0,90}?return(?=\\(.+?(\\(0,\\i\\.jsxs\\)\\(\"div\",{className:\\i\\.members.+?guildId:(\\i)\\.guild_id.+?roleColor.+?\\]}\\)))/"
+    },
+    {
       "plugin": "TypingTweaks",
       "type": "had no effect",
       "id": "738619",
       "match": "/(,{a:(\\i),b:(\\i),c:\\i}\\):\\i\\.length>3&&\\(\\i=)\\i\\.\\i\\.string\\(\\i\\.\\i#{intl::SEVERAL_USERS_TYPING}\\)(?<=(\\i)\\.length.+?)/"
+    },
+    {
+      "plugin": "ShowAllMessageButtons",
+      "type": "had no effect",
+      "id": "773176",
+      "match": "/isExpanded:\\i&&(.+?),/"
+    },
+    {
+      "plugin": "NoticesAPI",
+      "type": "had no effect",
+      "id": "933429",
+      "match": "/(?<=,NOTICE_DISMISS:function\\(\\i\\){)return null!=(\\i)/"
+    },
+    {
+      "plugin": "SuperReactionTweaks",
+      "type": "had no effect",
+      "id": "960020",
+      "match": "/(BURST_REACTION_EFFECT_PLAY:\\i=>{.{50,100})(\\i\\(\\i,\\i\\))>=\\d+/"
+    },
+    {
+      "plugin": "ClientSideBlock",
+      "type": "had no effect",
+      "id": "993397",
+      "match": "/\\i.memo\\(function\\(\\i\\){/"
+    },
+    {
+      "plugin": "EquicordToolbox",
+      "type": "found no module",
+      "id": "-",
+      "match": "toolbar:function"
+    },
+    {
+      "plugin": "HolyNotes",
+      "type": "found no module",
+      "id": "-",
+      "match": "toolbar:function"
+    },
+    {
+      "plugin": "MessageLoggerEnhanced",
+      "type": "found no module",
+      "id": "-",
+      "match": "toolbar:function"
+    },
+    {
+      "plugin": "QuestCompleter",
+      "type": "found no module",
+      "id": "-",
+      "match": "toolbar:function"
+    },
+    {
+      "plugin": "Soggy",
+      "type": "found no module",
+      "id": "-",
+      "match": "toolbar:function"
+    },
+    {
+      "plugin": "SoundBoardLogger",
+      "type": "found no module",
+      "id": "-",
+      "match": "toolbar:function"
     }
   ],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": []
+  "badWebpackFinds": [
+    "findComponentByCode(\"sidebarType:\", \"homeSidebarWidth\")"
+  ]
 }
