@@ -13,7 +13,14 @@
       "match": "/(,{a:(\\i),b:(\\i),c:\\i}\\):\\i\\.length>3&&\\(\\i=)\\i\\.\\i\\.string\\(\\i\\.\\i#{intl::SEVERAL_USERS_TYPING}\\)(?<=(\\i)\\.length.+?)/"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "ReplyTimestamp",
+      "type": "took 5.4ms",
+      "id": "267128",
+      "match": "/\\.onClickReply,.+?}\\),(?=\\i,\\i,\\i\\])/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
