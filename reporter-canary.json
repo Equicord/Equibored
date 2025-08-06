@@ -25,20 +25,7 @@
       "match": "quest-home-platform-select-"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "FakeNitro",
-      "type": "took 8.5ms",
-      "id": "74538",
-      "match": "/(?<=canUseCustomNotificationSounds:)\\i/"
-    },
-    {
-      "plugin": "ContextMenuAPI",
-      "type": "took 5.7ms",
-      "id": "298812",
-      "match": "/navId:(?=.+?([,}].*?\\)))/g"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
