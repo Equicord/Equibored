@@ -37,7 +37,14 @@
       "match": "/(\\i)=\\i&&(!\\i.+?)/"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "QuestFocused",
+      "type": "took 5.8ms",
+      "id": "963123",
+      "match": "/(?<=case \\i\\.\\i\\.PAUSED:.{0,25})\\i\\.current\\.pause\\(\\),/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
