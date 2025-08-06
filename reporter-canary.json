@@ -25,14 +25,7 @@
       "match": "quest-home-platform-select-"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "InviteDefaults",
-      "type": "took 21.6ms",
-      "id": "560114",
-      "match": "/(?<=temporary:)null!=\\i&&\\i/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
