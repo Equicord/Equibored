@@ -1,50 +1,25 @@
 {
   "badPatches": [
     {
-      "plugin": "NoModalAnimation",
+      "plugin": "ShowHiddenChannels",
       "type": "had no effect",
-      "id": "287151",
-      "match": "/(\\i)=(200|300)/g"
+      "id": "734386",
+      "match": "/MANAGE_ROLES.{0,90}?return(?=\\(.+?(\\(0,\\i\\.jsxs\\)\\(\"div\",{className:\\i\\.members.+?guildId:(\\i)\\.guild_id.+?roleColor.+?\\]}\\)))/"
     },
     {
-      "plugin": "SuperReactionTweaks",
-      "type": "had no effect",
-      "id": "960020",
-      "match": "/(\\i=>{.{50,100})(\\i\\(\\i,\\i\\))>=\\i/"
-    },
-    {
-      "plugin": "AllCallTimers",
-      "type": "had no effect",
-      "id": "597998",
-      "match": "/function \\i\\(\\)\\{.+:\"\"(?=.*?userId:(\\i))/"
-    },
-    {
-      "plugin": "NoticesAPI",
-      "type": "had no effect",
-      "id": "933429",
-      "match": "/(?<=function \\i\\(\\i\\){)return null!=(\\i)/"
-    },
-    {
-      "plugin": "SilentTyping",
+      "plugin": "TypingTweaks",
       "type": "had no effect",
       "id": "738619",
-      "match": "/(typingDots,ref:\\i,children:)(\\[.{0,300}?}\\)\\])/"
+      "match": "/(,{a:(\\i),b:(\\i),c:\\i}\\):\\i\\.length>3&&\\(\\i=)\\i\\.\\i\\.string\\(\\i\\.\\i#{intl::SEVERAL_USERS_TYPING}\\)(?<=(\\i)\\.length.+?)/"
     },
     {
-      "plugin": "ShowAllMessageButtons",
-      "type": "had no effect",
-      "id": "773176",
-      "match": "/(\\i)=\\i&&(!\\i.+?)/"
+      "plugin": "ReviewDB",
+      "type": "found no module",
+      "id": "-",
+      "match": ".MODAL,user:"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "QuestFocused",
-      "type": "took 5.8ms",
-      "id": "963123",
-      "match": "/(?<=case \\i\\.\\i\\.PAUSED:.{0,25})\\i\\.current\\.pause\\(\\),/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
