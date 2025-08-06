@@ -19,19 +19,26 @@
       "match": "/#{intl::SETTINGS_GAMES_TOGGLE_OVERLAY}.+?}\\(\\),(?<={overlay:\\i,.+?=(\\i),.+?)(?=!(\\i))/"
     },
     {
-      "plugin": "ReviewDB",
-      "type": "found no module",
-      "id": "-",
-      "match": ".MODAL,user:"
-    },
-    {
       "plugin": "Questify",
       "type": "found no module",
       "id": "-",
       "match": "quest-home-platform-select-"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "FakeNitro",
+      "type": "took 8.5ms",
+      "id": "74538",
+      "match": "/(?<=canUseCustomNotificationSounds:)\\i/"
+    },
+    {
+      "plugin": "ContextMenuAPI",
+      "type": "took 5.7ms",
+      "id": "298812",
+      "match": "/navId:(?=.+?([,}].*?\\)))/g"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],

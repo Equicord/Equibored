@@ -11,12 +11,6 @@
       "type": "had no effect",
       "id": "738619",
       "match": "/(,{a:(\\i),b:(\\i),c:\\i}\\):\\i\\.length>3&&\\(\\i=)\\i\\.\\i\\.string\\(\\i\\.\\i#{intl::SEVERAL_USERS_TYPING}\\)(?<=(\\i)\\.length.+?)/"
-    },
-    {
-      "plugin": "ReviewDB",
-      "type": "found no module",
-      "id": "-",
-      "match": ".MODAL,user:"
     }
   ],
   "slowPatches": [],
