@@ -17,6 +17,12 @@
       "type": "found no module",
       "id": "-",
       "match": ".MODAL,user:"
+    },
+    {
+      "plugin": "Questify",
+      "type": "found no module",
+      "id": "-",
+      "match": "quest-home-platform-select-"
     }
   ],
   "slowPatches": [],
