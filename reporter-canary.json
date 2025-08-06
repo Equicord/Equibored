@@ -19,7 +19,14 @@
       "match": ".MODAL,user:"
     }
   ],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "InviteDefaults",
+      "type": "took 5.1ms",
+      "id": "560114",
+      "match": "/(?<=temporary:)null!=\\i&&\\i/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
