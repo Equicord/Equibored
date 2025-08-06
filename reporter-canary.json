@@ -31,14 +31,7 @@
       "match": "quest-home-platform-select-"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "FakeNitro",
-      "type": "took 9.2ms",
-      "id": "74538",
-      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
