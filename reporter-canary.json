@@ -13,6 +13,12 @@
       "match": "/(,{a:(\\i),b:(\\i),c:\\i}\\):\\i\\.length>3&&\\(\\i=)\\i\\.\\i\\.string\\(\\i\\.\\i#{intl::SEVERAL_USERS_TYPING}\\)(?<=(\\i)\\.length.+?)/"
     },
     {
+      "plugin": "IgnoreActivities",
+      "type": "had no effect",
+      "id": "293389",
+      "match": "/#{intl::SETTINGS_GAMES_TOGGLE_OVERLAY}.+?}\\(\\),(?<={overlay:\\i,.+?=(\\i),.+?)(?=!(\\i))/"
+    },
+    {
       "plugin": "ReviewDB",
       "type": "found no module",
       "id": "-",
