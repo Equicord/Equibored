@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "BetterFolders",
+      "type": "took 6.2ms",
+      "id": "176299",
+      "match": "/(?<=className:)\\i\\.base(?=,)/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
