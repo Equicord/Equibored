@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "FakeNitro",
+      "type": "took 8.1ms",
+      "id": "74538",
+      "match": "/(?<=canUseCustomNotificationSounds:)\\i/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
