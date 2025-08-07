@@ -7,11 +7,16 @@
       "match": "quest-home-platform-select-"
     }
   ],
-  "slowPatches": [],
-  "badStarts": [],
-  "otherErrors": [
-    "Cannot read properties of undefined (reading 'call')"
+  "slowPatches": [
+    {
+      "plugin": "AlwaysAnimate",
+      "type": "took 5.1ms",
+      "id": "782818",
+      "match": "/canAnimate:.+?([,}].*?\\))/g"
+    }
   ],
+  "badStarts": [],
+  "otherErrors": [],
   "ignoredErrors": [],
   "badWebpackFinds": []
 }
