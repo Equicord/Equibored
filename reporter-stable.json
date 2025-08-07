@@ -1,18 +1,5 @@
 {
-  "badPatches": [
-    {
-      "plugin": "ShowHiddenChannels",
-      "type": "had no effect",
-      "id": "734386",
-      "match": "/MANAGE_ROLES.{0,90}?return(?=\\(.+?(\\(0,\\i\\.jsxs\\)\\(\"div\",{className:\\i\\.members.+?guildId:(\\i)\\.guild_id.+?roleColor.+?\\]}\\)))/"
-    },
-    {
-      "plugin": "TypingTweaks",
-      "type": "had no effect",
-      "id": "738619",
-      "match": "/(,{a:(\\i),b:(\\i),c:\\i}\\):\\i\\.length>3&&\\(\\i=)\\i\\.\\i\\.string\\(\\i\\.\\i#{intl::SEVERAL_USERS_TYPING}\\)(?<=(\\i)\\.length.+?)/"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
