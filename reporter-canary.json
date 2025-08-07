@@ -1,18 +1,11 @@
 {
-  "badPatches": [
-    {
-      "plugin": "Questify",
-      "type": "found no module",
-      "id": "-",
-      "match": "quest-home-platform-select-"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [
     {
       "plugin": "FakeNitro",
-      "type": "took 8.6ms",
+      "type": "took 8.3ms",
       "id": "74538",
-      "match": "/(?<=canUseCustomNotificationSounds:)\\i/"
+      "match": "/(?<=canUsePremiumAppIcons:)\\i/"
     }
   ],
   "badStarts": [],
