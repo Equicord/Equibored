@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "Settings",
+      "type": "took 5.5ms",
+      "id": "923422",
+      "match": "/(?<=function\\((\\i),\\i\\)\\{)(?=let \\i=Object.values\\(\\i.\\i\\).*?(\\i\\.\\i)\\.open\\()/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
