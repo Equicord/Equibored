@@ -11,9 +11,9 @@
 
 [![Equibite](https://img.shields.io/badge/Equibite-green?style=flat)](https://github.com/Equicord/Equibite) [![Equidocs](https://img.shields.io/badge/Equibite-green?style=flat)](https://github.com/Equicord/Equidocs)
 
-[![Discord](https://img.shields.io/discord/1207691698386501634.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/equicord-1173279886065029291)
+[![Discord](https://img.shields.io/discord/1207691698386501634.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://equicord.org/discord)
 
-You can join our [discord server](https://discord.gg/equicord-1173279886065029291) for commits, changes, chat or even support.<br></br>
+You can join our [discord server](https://equicord.org/discord) for commits, changes, chat or even support.<br></br>
 
 ## Equibored
 
