@@ -4,5 +4,7 @@
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": []
+  "badWebpackFinds": [
+    "findByCode(\"/\"span\",\\{className:\\i\\.emoji,children:/\")"
+  ]
 }
