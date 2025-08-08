@@ -14,14 +14,7 @@
       "error": "Unexpected token 'const'"
     }
   ],
-  "slowPatches": [
-    {
-      "plugin": "FakeProfileThemesAndEffects",
-      "type": "took 19.7ms",
-      "id": "191564",
-      "match": "/(function \\i\\([^)]*\\){(?:.(?!function ))*\\.modalContent,(?:.(?!function ))*}).*(?=}\\))/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
