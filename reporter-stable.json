@@ -1,13 +1,6 @@
 {
   "badPatches": [],
-  "slowPatches": [
-    {
-      "plugin": "ShowHiddenChannels",
-      "type": "took 6.6ms",
-      "id": "540126",
-      "match": "/if\\(!\\i\\.\\i\\.can\\(\\i\\.\\i\\.VIEW_CHANNEL.+?{if\\(this\\.id===\\i\\).+?threadIds:\\[\\]}}/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
