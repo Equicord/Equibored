@@ -1,6 +1,13 @@
 {
   "badPatches": [],
-  "slowPatches": [],
+  "slowPatches": [
+    {
+      "plugin": "PinDMs",
+      "type": "took 22ms",
+      "id": "831218",
+      "match": "/(?<=span\",{)className:\\i\\.headerText,/"
+    }
+  ],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
