@@ -1,12 +1,5 @@
 {
-  "badPatches": [
-    {
-      "plugin": "Questify",
-      "type": "found no module",
-      "id": "-",
-      "match": "quest-home-platform-select-"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
