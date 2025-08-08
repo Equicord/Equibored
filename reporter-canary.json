@@ -1,19 +1,5 @@
 {
-  "badPatches": [
-    {
-      "plugin": "Questify",
-      "type": "had no effect",
-      "id": "667105",
-      "match": "/\\i.unshift\\(\\i\\):(\\i.push\\(\\i\\))/"
-    },
-    {
-      "plugin": "Questify",
-      "type": "errored",
-      "id": "667105",
-      "match": "/(\\(0,\\i.\\i\\)\\((\\i).id,{questContent:)/",
-      "error": "Unexpected token 'const'"
-    }
-  ],
+  "badPatches": [],
   "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
