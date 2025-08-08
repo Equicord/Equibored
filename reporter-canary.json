@@ -4,7 +4,5 @@
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
-  "badWebpackFinds": [
-    "waitForStore(\"SpellCheckStore\")"
-  ]
+  "badWebpackFinds": []
 }
