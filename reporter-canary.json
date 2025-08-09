@@ -1,13 +1,6 @@
 {
   "badPatches": [],
-  "slowPatches": [
-    {
-      "plugin": "WhosWatching",
-      "type": "took 6.2ms",
-      "id": "165393",
-      "match": "/jsx\\)\\((\\i\\.\\i),{mask:/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
