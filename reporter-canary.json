@@ -5,24 +5,12 @@
       "type": "had no effect",
       "id": "287746",
       "match": "/let (\\i)=\\i\\.\\i\\.parse\\((\\i),.+?let (\\i)=\\i\\.\\i\\.getSendMessageOptions\\(\\{.+?\\}\\);(?<=\\)\\(({.+?})\\)\\.then.+?)/"
-    },
-    {
-      "plugin": "SearchFix",
-      "type": "had no effect",
-      "id": "518944",
-      "match": "/\\i\\.searchResultsQuery=(\\i)/"
-    },
-    {
-      "plugin": "HideServers",
-      "type": "had no effect",
-      "id": "900085",
-      "match": "/(?<=renderResults\\(\\){)let{query/"
     }
   ],
   "slowPatches": [
     {
       "plugin": "BetterActivities",
-      "type": "took 13.7ms",
+      "type": "took 6.9ms",
       "id": "78933",
       "match": "/(?<=,(\\i)=.{0,10}\\i\\.id.{0,150}userId:(\\i).*?,)\\i\\?.{0,250}onClose:\\i\\}\\)/"
     }
