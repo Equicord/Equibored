@@ -10,7 +10,7 @@
   "slowPatches": [
     {
       "plugin": "BetterActivities",
-      "type": "took 7.1ms",
+      "type": "took 6.7ms",
       "id": "78933",
       "match": "/(?<=,(\\i)=.{0,10}\\i\\.id.{0,150}userId:(\\i).*?,)\\i\\?.{0,250}onClose:\\i\\}\\)/"
     }
