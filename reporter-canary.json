@@ -10,9 +10,15 @@
   "slowPatches": [
     {
       "plugin": "BetterActivities",
-      "type": "took 6.7ms",
+      "type": "took 7.9ms",
       "id": "78933",
       "match": "/(?<=,(\\i)=.{0,10}\\i\\.id.{0,150}userId:(\\i).*?,)\\i\\?.{0,250}onClose:\\i\\}\\)/"
+    },
+    {
+      "plugin": "QuestFocused",
+      "type": "took 5.2ms",
+      "id": "963123",
+      "match": "/(?<=case \\i\\.\\i\\.PAUSED:.{0,25})\\i\\.current\\.pause\\(\\),/"
     }
   ],
   "badStarts": [],
