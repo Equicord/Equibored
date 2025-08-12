@@ -9,8 +9,20 @@
   ],
   "slowPatches": [
     {
+      "plugin": "ContextMenuAPI",
+      "type": "took 6.1ms",
+      "id": "745763",
+      "match": "/navId:(?=.+?([,}].*?\\)))/g"
+    },
+    {
+      "plugin": "BetterBanReasons",
+      "type": "took 7ms",
+      "id": "98746",
+      "match": "/\\[(\\{name:\\i\\.\\i\\.\\i\\(\\i\\.\\i\\.\\i\\),value:(\\i\\.\\i\\.\\i\\(\\i\\.\\i\\.\\i\\)|\"other\")\\},?)+\\]/"
+    },
+    {
       "plugin": "BetterActivities",
-      "type": "took 13.8ms",
+      "type": "took 12.2ms",
       "id": "78933",
       "match": "/(?<=,(\\i)=.{0,10}\\i\\.id.{0,150}userId:(\\i).*?,)\\i\\?.{0,250}onClose:\\i\\}\\)/"
     }
