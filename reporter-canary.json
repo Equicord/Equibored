@@ -1,19 +1,6 @@
 {
   "badPatches": [],
-  "slowPatches": [
-    {
-      "plugin": "FakeNitro",
-      "type": "took 9.7ms",
-      "id": "74538",
-      "match": "/(?<=canUseCustomNotificationSounds:)\\i/"
-    },
-    {
-      "plugin": "InviteDefaults",
-      "type": "took 6.3ms",
-      "id": "560114",
-      "match": "/(?<=maxUses:)null!=\\i&&0!==\\i\\?\\i:\\i.value/"
-    }
-  ],
+  "slowPatches": [],
   "badStarts": [],
   "otherErrors": [],
   "ignoredErrors": [],
