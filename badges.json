@@ -1,670 +1,860 @@
 {
-	"848339671629299742": [
-		{
-			"tooltip": "Look Right",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5571-7000-b706-d98eef247c0c"
-		},
-		{
-			"tooltip": "Duck",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5570-7001-8b09-e861bd675e95"
-		},
-		{
-			"tooltip": "Look Left",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5570-7000-a17f-5962bc3708c5"
-		},
-		{
-			"tooltip": "Equicord Founder",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-556c-7001-89b8-9df96eee2cd8"
-		}
-	],
 	"353229259482857475": [
 		{
 			"tooltip": "Stareeeee",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5587-7000-b7cd-e8f82cf93d62"
-		}
-	],
-	"790562534503612437": [
-		{
-			"tooltip": "shaved mouse",
-			"badge": "https://images.equicord.org/api/undefined/files/raw/019aeb6d-46ce-7000-ba72-9b974642bf2c"
-		}
-	],
-	"387790666484285441": [
-		{
-			"tooltip": "shaved mouse",
-			"badge": "https://images.equicord.org/api/undefined/files/raw/019aeb6d-46ce-7000-ba72-9b974642bf2c"
-		}
-	],
-	"719967434911645787": [
-		{
-			"tooltip": "shaved mouse",
-			"badge": "https://images.equicord.org/api/undefined/files/raw/019aeb6d-46ce-7000-ba72-9b974642bf2c"
-		}
-	],
-	"620826929897144320": [
-		{
-			"tooltip": "shaved mouse",
-			"badge": "https://images.equicord.org/api/undefined/files/raw/019aeb6d-46ce-7000-ba72-9b974642bf2c"
+			"badge": "https://badge.equicord.org/badges/353229259482857475/87214955a8bb7397e64951ca9975af7572720889.webp"
 		}
 	],
 	"913205935319691335": [
 		{
 			"tooltip": ">,,<",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5569-7000-9af0-0c3be6f6676c"
+			"badge": "https://badge.equicord.org/badges/913205935319691335/776f0cb03fe130212cb4d1f922675a7a65208d40.webp"
 		}
 	],
 	"1207087393929171095": [
 		{
 			"tooltip": "Suncord Creator",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-555f-7000-9737-6dfa6651bb71"
+			"badge": "https://badge.equicord.org/badges/1207087393929171095/bd823825a8b044c1ed79b0f8a6d2f44bf90c0b22.webp"
 		},
 		{
 			"tooltip": "vsync",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-555e-7001-865e-58517f1ef9fa"
+			"badge": "https://badge.equicord.org/badges/1207087393929171095/7aa5c1faea801b3543e013d8c44abb274a106b97.webp"
+		},
+		{
+			"tooltip": "nyx",
+			"badge": "https://badge.equicord.org/badges/1207087393929171095/50228e6068c5251ab5d14e80f8920b76b2923974.png"
 		}
 	],
 	"929208515883569182": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/929208515883569182/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "Gustavo",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5567-7000-bf93-becc569b8d21"
+			"badge": "https://badge.equicord.org/badges/929208515883569182/58a4906dbf7deec96546d89eaa48f820fa8dd22b.webp"
 		},
 		{
 			"tooltip": "Erm... actually",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5566-7001-9fde-e45b401f641f"
+			"badge": "https://badge.equicord.org/badges/929208515883569182/627da892300a0c150ae9535c196ac7288bbb42e1.webp"
 		}
 	],
 	"865911778235908168": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/865911778235908168/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "wire",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-556b-7000-9efd-996b3ae164af"
+			"badge": "https://badge.equicord.org/badges/865911778235908168/92de280460826a46119d85e43bc50833a8b2fa5e.webp"
 		},
 		{
 			"tooltip": "money",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-556a-7000-bce5-80f2d49eb088"
+			"badge": "https://badge.equicord.org/badges/865911778235908168/e0438a732603b242e371d644a4ba066ff78c9cfa.webp"
 		},
 		{
 			"tooltip": "Wired",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5569-7001-8025-14f78d640e79"
+			"badge": "https://badge.equicord.org/badges/865911778235908168/f20b5fc3e0caf35e952c1932b99e5cedf86100dd.webp"
 		}
 	],
 	"442626774841556992": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/442626774841556992/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": ">,,<",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5586-7000-a136-6341ffdc6540"
+			"badge": "https://badge.equicord.org/badges/442626774841556992/776f0cb03fe130212cb4d1f922675a7a65208d40.webp"
 		}
 	],
 	"1189903210564038697": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1189903210564038697/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "Hi",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5560-7000-b651-0df959dfe873"
+			"badge": "https://badge.equicord.org/badges/1189903210564038697/1af67a5230e9f05c7b41522d8c44147ceab9e398.webp"
 		}
 	],
 	"1184919955054022657": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1184919955054022657/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "listen",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5561-7000-84c3-251ddacf4491"
+			"badge": "https://badge.equicord.org/badges/1184919955054022657/001e8b7bfd420995b089e323e85a0390f619cbbf.webp"
 		}
 	],
 	"1235921714425106493": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1235921714425106493/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "me",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5558-7000-9fb5-fdddd6265e02"
+			"badge": "https://badge.equicord.org/badges/1235921714425106493/920c86e9075c3421a6c61f8206eff911a0a853a2.webp"
 		}
 	],
 	"410475909125242901": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/410475909125242901/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"919239894327521361": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/919239894327521361/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "catkiss",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5568-7000-ac92-fef74898d22d"
+			"badge": "https://badge.equicord.org/badges/919239894327521361/1817df0f7144a03d6f3a78213977c115ab735945.webp"
 		},
 		{
 			"tooltip": "Autistic",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5567-7001-aaf6-3084aa1dff9f"
+			"badge": "https://badge.equicord.org/badges/919239894327521361/2954d3eb426a29c15e58c936c1c521e7786ba2dc.webp"
 		}
 	],
 	"149323038041702400": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/149323038041702400/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "I STEAL CARS",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-558c-7000-a91e-fa281f708e3f"
+			"badge": "https://badge.equicord.org/badges/149323038041702400/38387fb14d33a0a4e52a46adb315c530757b5a14.webp"
 		}
 	],
 	"1049056042266394766": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1049056042266394766/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "21",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5563-7000-a94c-c21d4e80a172"
+			"badge": "https://badge.equicord.org/badges/1049056042266394766/d523c89f7d9dc7523787f59e341265fb03d0d3f8.webp"
 		}
 	],
 	"1183870467757576254": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1183870467757576254/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "d",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5561-7001-abf6-1fe2bd9cce83"
+			"badge": "https://badge.equicord.org/badges/1183870467757576254/d624565ec66375005d39b1de8a17fd9f1f2d7c9c.webp"
 		}
 	],
 	"251352646181453824": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/251352646181453824/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": ">,,<",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5588-7000-ac63-8d0f4ed0264c"
+			"badge": "https://badge.equicord.org/badges/251352646181453824/776f0cb03fe130212cb4d1f922675a7a65208d40.webp"
 		},
 		{
 			"tooltip": "Certified Furry",
-			"badge": "https://images.equicord.org/api/files/raw/0199e730-70cd-7000-8913-347abbd66f2e"
+			"badge": "https://badge.equicord.org/badges/251352646181453824/bc73b5f81dd29f448333da923ddc6efc2baed83c.webp"
 		},
 		{
 			"tooltip": "Psychopathic Tendendies",
-			"badge": "https://images.equicord.org/api/files/raw/0199e730-70cb-7000-b08a-a5fb81638132"
+			"badge": "https://badge.equicord.org/badges/251352646181453824/35ea8310b91b710aad5a6ea8602fffcb5d6cfdcc.webp"
+		},
+		{
+			"tooltip": "Its kIba.fyi",
+			"badge": "https://badge.equicord.org/badges/251352646181453824/9360d6f3b452d1df77b2788d08b4c411b046672d.png"
+		},
+		{
+			"tooltip": "Mawdistical Enterprises",
+			"badge": "https://badge.equicord.org/badges/251352646181453824/06e344b70453b5ee1729adf3df6e00aadd6c3156.png"
 		}
 	],
 	"920290194886914069": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/920290194886914069/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"1221856088299667497": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1221856088299667497/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "King",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-555e-7000-a5b4-b072d42f3e92"
+			"badge": "https://badge.equicord.org/badges/1221856088299667497/9d327ac283c025e7af34d9defcdeb475bf022bfb.webp"
 		}
 	],
 	"1181174180578857036": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1181174180578857036/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "xi",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5562-7001-a490-5320bbc3dd28"
+			"badge": "https://badge.equicord.org/badges/1181174180578857036/d320024c95db9d3d6afc4394960f3c55098a8ee3.webp"
 		},
 		{
 			"tooltip": "xi jinping",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5562-7000-9d09-f7811034f86f"
+			"badge": "https://badge.equicord.org/badges/1181174180578857036/9699cf552007d56f9cff80cdded8e98446c6c373.webp"
 		}
 	],
 	"861631850681729045": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/861631850681729045/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "<3",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-556b-7001-aba5-58abd06986fe"
+			"badge": "https://badge.equicord.org/badges/861631850681729045/6c7d1e07ac8773e9408e009c18a1da3625a455fa.webp"
 		}
 	],
 	"630151942135480370": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/630151942135480370/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "nyx's Supporter",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5575-7001-8fce-235ad5ddf72c"
+			"badge": "https://badge.equicord.org/badges/630151942135480370/de620761667f37cdc4c09e6c37de3306365b6c94.webp"
 		}
 	],
 	"1223194674546737183": [
 		{
 			"tooltip": "Suncord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1223194674546737183/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "blehhh",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-555a-7000-b0db-762e2be70856"
+			"badge": "https://badge.equicord.org/badges/1223194674546737183/95f7740d2d54d3f3001d301ac655ef8d8e20f4e9.webp"
 		}
 	],
 	"1259709597694824469": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1259709597694824469/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"209830981060788225": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/209830981060788225/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "cat real",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-558a-7000-a968-1eba078e4ff9"
+			"badge": "https://badge.equicord.org/badges/209830981060788225/078ce796d6f531c1607238bb0d464e79af0cc3ab.webp"
 		},
 		{
 			"tooltip": "meowland",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5589-7001-a00e-742461b187ca"
+			"badge": "https://badge.equicord.org/badges/209830981060788225/241880c8a43055ddf330e55ed9ffcd85859216d4.webp"
 		},
 		{
 			"tooltip": "i use arch btw",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5589-7000-9489-0301125861c9"
+			"badge": "https://badge.equicord.org/badges/209830981060788225/d5b60bba28fa0f2abf700edfa6c2c30f22f688a1.webp"
 		},
 		{
 			"tooltip": "scared",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5588-7001-a26f-1b94677143d0"
+			"badge": "https://badge.equicord.org/badges/209830981060788225/f562eb218d9b3a5816a9d6af920b5629dedece54.webp"
 		}
 	],
 	"71708869297971200": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/71708869297971200/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "cozy bunny",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-558c-7001-b938-68e175330cd8"
+			"badge": "https://badge.equicord.org/badges/71708869297971200/9f57e0c6b7075cca050f01b354391fa5ce7526e5.webp"
 		}
 	],
 	"575942899519193099": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/575942899519193099/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "very, very cool (pun intended)",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-557b-7000-a9e7-02a24babe3e0"
+			"badge": "https://badge.equicord.org/badges/575942899519193099/271b28d13e6e7cbcc1d70c5817cb7f8647a771fe.webp"
 		}
 	],
 	"1281147973711040552": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1281147973711040552/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"711604934201704469": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/711604934201704469/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "catkissed",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5574-7001-8e6c-fe9cc0db20a3"
+			"badge": "https://badge.equicord.org/badges/711604934201704469/1817df0f7144a03d6f3a78213977c115ab735945.webp"
 		},
 		{
 			"tooltip": "moon",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5574-7000-99bd-933e831a1d99"
+			"badge": "https://badge.equicord.org/badges/711604934201704469/fb75e519e512b19ca51d3677d9f81b0369ad1ffd.webp"
 		},
 		{
 			"tooltip": "Cat Anvil Illustration",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5573-7001-8f35-b8919ca37f3f"
+			"badge": "https://badge.equicord.org/badges/711604934201704469/b0985a9196cd2ad4767051877640519059b32997.webp"
 		},
 		{
 			"tooltip": "schizo tranny",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5573-7000-acb3-9997cd96a8cd"
+			"badge": "https://badge.equicord.org/badges/711604934201704469/287b7ea758517e7cbfaa852904a483de96f0aa6a.webp"
 		}
 	],
 	"1230609062941687959": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1230609062941687959/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"594494187710447626": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/594494187710447626/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "petal powered",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-557a-7001-8245-171c863e82fc"
+			"badge": "https://badge.equicord.org/badges/594494187710447626/388ba421c3b84d71cf54d48fb2b1b6177bf78e20.webp"
 		},
 		{
 			"tooltip": "flying eye idk",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-557a-7000-ac73-6b511e30aced"
+			"badge": "https://badge.equicord.org/badges/594494187710447626/4c7009d13896ffc77d6be8d58e84f1cf10816ed6.webp"
 		},
 		{
 			"tooltip": "this is me if u even care",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5579-7000-b4f0-c326342f8c27"
+			"badge": "https://badge.equicord.org/badges/594494187710447626/f510c47b79b11d739453b541b4f5c28e449590cf.webp"
 		},
 		{
 			"tooltip": "vital core",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5576-7001-8332-e78e4cfcfe24"
+			"badge": "https://badge.equicord.org/badges/594494187710447626/d387b3cf0fcb00e6bbc2da1ba4e09fd9ecaed7d5.webp"
 		},
 		{
 			"tooltip": "all-seeing love",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5576-7000-b096-49231feabc63"
+			"badge": "https://badge.equicord.org/badges/594494187710447626/98f04a967eb9276755831d9700382f9360d0cfa7.webp"
 		}
 	],
 	"294650200557879297": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/294650200557879297/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"1417827917689524234": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1417827917689524234/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"570215106407825408": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/570215106407825408/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"712648730423197697": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/712648730423197697/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"1258172662254141603": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1258172662254141603/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"390884143749136386": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/390884143749136386/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"313473796902354954": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/313473796902354954/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "catboy",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5587-7001-9ed5-61ae75f2d0d7"
+			"badge": "https://badge.equicord.org/badges/313473796902354954/587cd136fed8bad0b88551f127cd5558e703516b.webp"
 		}
 	],
 	"471364076036161537": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/471364076036161537/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"158176459037474816": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/158176459037474816/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "Twilight",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-558b-7000-bfc3-2e1da9189524"
+			"badge": "https://badge.equicord.org/badges/158176459037474816/6f671fb7df6b57e0d0da3c0ea023639d5b03b869.webp"
 		}
 	],
 	"962341167377285181": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/962341167377285181/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"279448683672502274": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/279448683672502274/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"437613351661469716": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/437613351661469716/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"503296245872328705": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/503296245872328705/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"643838960958701588": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/643838960958701588/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"823311116574785636": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/823311116574785636/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"513405592472387616": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/513405592472387616/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"432169329723834370": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/432169329723834370/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"265102629082890240": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/265102629082890240/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "hewwo hiiii",
-			"badge": "https://images.equicord.org/api/files/raw/019afa30-e0a6-7000-9290-79ecbeabf511"
+			"badge": "https://badge.equicord.org/badges/265102629082890240/bb8b1b79050bd472bd7f038842da08f7e67cfd1c.webp"
 		}
 	],
 	"297075664530440192": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/297075664530440192/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "I'm not a dev",
-			"badge": "https://images.equicord.org/api/files/raw/019ae21c-24c2-7000-9f39-197a4d50ddc5"
+			"badge": "https://badge.equicord.org/badges/297075664530440192/ddeaa0c491e5098964a6d3e79448878ae6c62708.webp"
 		}
 	],
 	"169487657796108289": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/169487657796108289/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "Frog ?",
-			"badge": "https://images.equicord.org/api/files/raw/019a7429-f25a-7000-ac49-19d2d6b9b9da"
+			"badge": "https://badge.equicord.org/badges/169487657796108289/3ca62a408db080c851dd4b1431b5ab6b94e32c70.webp"
 		}
 	],
 	"1364726145404112937": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1364726145404112937/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"1362036432096592028": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1362036432096592028/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"1147940825330876538": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1147940825330876538/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		}
 	],
 	"154705392163749888": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/154705392163749888/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "hoshino",
-			"badge": "https://images.equicord.org/api/files/raw/019a81f7-9cca-7000-91f4-4e9508bfee13"
+			"badge": "https://badge.equicord.org/badges/154705392163749888/966f7a708cf3294615f8dec49479cb3dc4bed35c.webp"
 		}
 	],
 	"605388525717684225": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/605388525717684225/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "Use Railway",
-			"badge": "https://images.equicord.org/raw/019a5f1d-32d6-7000-b5fc-12a8d9e374e3"
+			"badge": "https://badge.equicord.org/badges/605388525717684225/ac1f9b18fd6d62c5fff8b534183d53f2d96dfabc.webp"
 		}
 	],
 	"477497542205243392": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/477497542205243392/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "Peak Femboy",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5585-7000-a7ce-f06a80bdf44c"
+			"badge": "https://badge.equicord.org/badges/477497542205243392/a23343a4260e15f7859d49e02044e4000ecf0a4b.webp"
 		}
 	],
 	"150503338742382593": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/150503338742382593/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "Novus Ordo Seclorum",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-558b-7001-bde3-6a3a18379f9e"
+			"badge": "https://badge.equicord.org/badges/150503338742382593/c6696445fa18fa18ff1f9028de99bf40cfa80069.webp"
 		}
 	],
 	"619203349954166804": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/619203349954166804/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "タイプスクリプ",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5575-7002-8944-3e60f122bac7"
+			"badge": "https://badge.equicord.org/badges/619203349954166804/9b3fff87dd855fc38b1d8b1f742a937a74e90045.webp"
 		}
 	],
 	"1273447359417942128": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/1273447359417942128/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "pew pew",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5557-7000-a66d-35cb0ae0e643"
+			"badge": "https://badge.equicord.org/badges/1273447359417942128/e0bb8364b69ac67734b683cd6a76dca6c74793d9.webp"
 		}
 	],
 	"682549231365390375": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/682549231365390375/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "DUMAN",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5575-7000-896b-3487f5a1cb2c"
+			"badge": "https://badge.equicord.org/badges/682549231365390375/31ad6b7598c3f4c156d22b173aef5c87bb14dd9b.webp"
 		}
 	],
 	"739756694019637301": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/739756694019637301/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "cat-dance",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5572-7002-9d96-5a6dfeba027c"
+			"badge": "https://badge.equicord.org/badges/739756694019637301/ad0c62bd5c62eaf09c0700aea0dfc6fc6aa0ff21.webp"
 		},
 		{
 			"tooltip": "pepe-pew",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5572-7001-b885-5304cd0d2dbe"
+			"badge": "https://badge.equicord.org/badges/739756694019637301/14845c7a9ec03bc4bd7f2843476560c5ffda6170.webp"
 		},
 		{
 			"tooltip": "pepe-smoke",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5572-7000-9e1c-6ce3c1a0b221"
+			"badge": "https://badge.equicord.org/badges/739756694019637301/df5c4e66b86eab961457191b01dbc35c1c282e87.webp"
 		},
 		{
 			"tooltip": "pepe-ussr",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5571-7002-9866-afaa99f62d7e"
+			"badge": "https://badge.equicord.org/badges/739756694019637301/28a190652c3269d6e9ad5301b2f26b3efc8eeeb6.webp"
 		},
 		{
 			"tooltip": "pepe-kek",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5571-7001-90e8-bbcd5b0996e2"
+			"badge": "https://badge.equicord.org/badges/739756694019637301/796d2f68735bd8f0eab49ad64ccd69553cb3ee3f.webp"
 		}
 	],
 	"399528694940434434": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/399528694940434434/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "Planetside 2 Founder",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5586-7001-80ac-bc88fe15bcb9"
+			"badge": "https://badge.equicord.org/badges/399528694940434434/b9e0a083cfb73b95f541280c801ca806718a7b08.webp"
 		}
 	],
 	"565978808524734509": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/565978808524734509/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "irmik",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-557c-7002-a70b-7550c8b3e9d8"
+			"badge": "https://badge.equicord.org/badges/565978808524734509/92f3eabf3d07c05107d60baf36c578320b220165.webp"
 		},
 		{
 			"tooltip": "brQ",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-557c-7001-aa90-0c98371055f5"
+			"badge": "https://badge.equicord.org/badges/565978808524734509/a99e628049f391820e9d17a3bb30d90933a5303e.webp"
 		},
 		{
 			"tooltip": "Verified",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-557c-7000-ab1b-0223ccffdc52"
+			"badge": "https://badge.equicord.org/badges/565978808524734509/e5e2e21c44974442bef23cfff74428eb22e5f442.webp"
 		}
 	],
 	"977016112879386644": [
 		{
 			"tooltip": "Equicord Donor",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5555-7000-aafb-a07a355d9b28"
+			"badge": "https://badge.equicord.org/badges/977016112879386644/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
 		},
 		{
 			"tooltip": "I use Cider btw",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5566-7000-9bee-7227004d1837"
+			"badge": "https://badge.equicord.org/badges/977016112879386644/42fce614a28e07ea59d885603a15b5cfe95aa599.webp"
 		},
 		{
 			"tooltip": "MacOS user",
-			"badge": "https://images.equicord.org/api/files/raw/0199e71a-5565-7000-bb5c-fb77abaabf06"
+			"badge": "https://badge.equicord.org/badges/977016112879386644/d3d755327ac8536fd2e1effcc54a2557c23d75a9.webp"
+		}
+	],
+	"848339671629299742": [
+		{
+			"tooltip": "Look Right",
+			"badge": "https://badge.equicord.org/badges/848339671629299742/6655581d88f729dde37bf0277ca95f4653f33e59.webp"
+		},
+		{
+			"tooltip": "Duck",
+			"badge": "https://badge.equicord.org/badges/848339671629299742/cd6687fb7e2ef344700f587d3232b04e12df5f21.webp"
+		},
+		{
+			"tooltip": "Look Left",
+			"badge": "https://badge.equicord.org/badges/848339671629299742/fa8e0e1d6bfe16f32ca2ba7937bf0ec1b3cf2e07.webp"
+		},
+		{
+			"tooltip": "Equicord Founder",
+			"badge": "https://badge.equicord.org/badges/848339671629299742/cc4be186871a34f7486d6fe7f7ccadc4582ff1ea.webp"
+		}
+	],
+	"228013858302853120": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/228013858302853120/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "Very Poor",
+			"badge": "https://badge.equicord.org/badges/228013858302853120/45e123ead0f3f2c02072237532c3065df64191e7.webp"
+		}
+	],
+	"1015372540937502851": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/1015372540937502851/97df33ef441adcd1bef3759340f30b9b7d50cae2.png"
+		},
+		{
+			"tooltip": "6969.pro",
+			"badge": "https://badge.equicord.org/badges/1015372540937502851/fe49b86dd7ca894b014cf82e90120a771bfafbd6.png"
+		}
+	],
+	"229699536979886081": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/229699536979886081/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "Angrybird",
+			"badge": "https://badge.equicord.org/badges/229699536979886081/73e1ebc594c6ae6d79003e386d68f3d99abe844f.png"
+		}
+	],
+	"534870646975496233": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/534870646975496233/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "Yeener",
+			"badge": "https://badge.equicord.org/badges/534870646975496233/bc2562ebeebfb48002caf60ead172e159158968c.png"
+		}
+	],
+	"328727486236196864": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/328727486236196864/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "Fraudulently Nulled",
+			"badge": "https://badge.equicord.org/badges/328727486236196864/474b83e85dacdd0178c53ccc4af4657f2e826a4e.png"
+		}
+	],
+	"229468578720645124": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/229468578720645124/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "Nanahira My Beloved",
+			"badge": "https://badge.equicord.org/badges/229468578720645124/d80e246a8c098d5e320908b628c3177082d7d42e.png"
+		},
+		{
+			"tooltip": "CogMind MasterMind",
+			"badge": "https://badge.equicord.org/badges/229468578720645124/5c6f78fdea8b4bfa79d2faaefdd76f2643e4bf70.png"
+		},
+		{
+			"tooltip": "Apotris Maxxing",
+			"badge": "https://badge.equicord.org/badges/229468578720645124/aaaebda56bb4b763e021c37b46630818cd0991b8.png"
+		}
+	],
+	"132957705915596800": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/132957705915596800/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "Tiger",
+			"badge": "https://badge.equicord.org/badges/132957705915596800/3f81fe5279430c4760ec5d1529d5768eb6c94670.png"
+		}
+	],
+	"957164619061932045": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/957164619061932045/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		}
+	],
+	"298255875112697868": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/298255875112697868/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "Discord Stealer",
+			"badge": "https://badge.equicord.org/badges/298255875112697868/332b3e456f26b45a477c1051779c34a60c115ce0.png"
+		}
+	],
+	"1230319937155760131": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/1230319937155760131/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "Roxi",
+			"badge": "https://badge.equicord.org/badges/1230319937155760131/e4fd5af4612ce8ea68f5768a0833a3fcd5179a64.jpg"
+		},
+		{
+			"tooltip": "Goddess of Wisdom",
+			"badge": "https://badge.equicord.org/badges/1230319937155760131/99130cdd5a17bd0de511500e64c505af50437edd.gif"
+		},
+		{
+			"tooltip": "Panty Goddess",
+			"badge": "https://badge.equicord.org/badges/1230319937155760131/f9c9d29af0fc7373a461c0cc4fe8cea7766cb94c.gif"
+		},
+		{
+			"tooltip": "Roxy Greyrat",
+			"badge": "https://badge.equicord.org/badges/1230319937155760131/ffd5e3fe73145b16453acb5c19f0ad570bec6737.png"
+		}
+	],
+	"777167180537397258": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/777167180537397258/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "xcodecat",
+			"badge": "https://badge.equicord.org/badges/777167180537397258/2fad674b9ac5a1ad32b8fac8e97a0d828f095e60.png"
+		}
+	],
+	"336229598364958721": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/336229598364958721/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "n9u",
+			"badge": "https://badge.equicord.org/badges/336229598364958721/3f415cd75e8a755a032ae16a3406c41dcc2d667a.png"
+		}
+	],
+	"531229743043969051": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/531229743043969051/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "verified",
+			"badge": "https://badge.equicord.org/badges/531229743043969051/b0aa4bfcc6a1d20c416fc15bd7ae5cd0e6e42315.webp"
+		}
+	],
+	"926788037785047050": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/926788037785047050/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		}
+	],
+	"805808898635989053": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/805808898635989053/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		}
+	],
+	"1430642327914938398": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/1430642327914938398/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "Joestar",
+			"badge": "https://badge.equicord.org/badges/1430642327914938398/26b960a3e14af026b8645964be3be435c973b7b6.png"
+		}
+	],
+	"423856366139080708": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/423856366139080708/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "Doom Slayer",
+			"badge": "https://badge.equicord.org/badges/423856366139080708/637a84b291f2fdfb9a1207adf55bd97a68e2d231.png"
+		},
+		{
+			"tooltip": "Mr. Retro",
+			"badge": "https://badge.equicord.org/badges/423856366139080708/4c1a16769b7360daeea2595a82d8b3ec6a94f79d.png"
+		},
+		{
+			"tooltip": "Gundalf",
+			"badge": "https://badge.equicord.org/badges/423856366139080708/1d9db8405b8a1d247f2ae8be90face7e0997c615.jpg"
+		}
+	],
+	"477334716324904973": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/477334716324904973/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		}
+	],
+	"174996041072902144": [
+		{
+			"tooltip": "Equicord Donor",
+			"badge": "https://badge.equicord.org/badges/174996041072902144/5ccb20b71543343979cb1795df34c131d6502fc0.webp"
+		},
+		{
+			"tooltip": "The only ones who should kill are those who are prepared to be killed",
+			"badge": "https://badge.equicord.org/badges/174996041072902144/f2098a2a6dc6b0922cc744ec494ed9a78d3739b8.gif"
 		}
 	]
 }
