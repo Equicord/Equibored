@@ -124,10 +124,6 @@
       "name": "kemo",
       "id": "715746190813298788"
     },
-    "dzshn": {
-      "name": "dzshn",
-      "id": "310449948011528192"
-    },
     "Ducko": {
       "name": "Ducko",
       "id": "506482395269169153"
@@ -305,8 +301,8 @@
       "id": "354191516979429376"
     },
     "Rini": {
-      "name": "Rini",
-      "id": "1079479184478441643"
+      "name": "rini",
+      "id": "0"
     },
     "castdrian": {
       "name": "castdrian",
@@ -446,7 +442,7 @@
     },
     "Byeoon": {
       "name": "byeoon",
-      "id": "1167275288036655133"
+      "id": "495683688474869781"
     },
     "Kaitlyn": {
       "name": "kaitlyn",
@@ -595,6 +591,10 @@
     "nightmaresan": {
       "name": "NightmareSan",
       "id": "304239816466235392"
+    },
+    "angelcube": {
+      "name": "angelcube",
+      "id": "958505257288208446"
     },
     "Lunascape": {
       "name": "Lunascape",
