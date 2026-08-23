@@ -706,6 +706,10 @@
       "name": "Balaclava",
       "id": "854886148455399436"
     },
+    "tt": {
+      "name": "_.tt",
+      "id": "497966466617049089"
+    },
     "dat_insanity": {
       "name": "dat_insanity",
       "id": "0"
@@ -1225,10 +1229,6 @@
     "korzi": {
       "name": "korzi",
       "id": "740966310875365416"
-    },
-    "davri": {
-      "name": "Davri",
-      "id": "457579346282938368"
     },
     "yash": {
       "name": "yash",
