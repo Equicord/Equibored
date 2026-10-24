@@ -1,0 +1,700 @@
+{
+	"clientmods/aero": [
+		{
+			"name": "contributor",
+			"artist": null,
+			"file": "icons/clientmods/aero/contributor.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/aero/contributor.png"
+		},
+		{
+			"name": "developer",
+			"artist": null,
+			"file": "icons/clientmods/aero/developer.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/aero/developer.png"
+		},
+		{
+			"name": "aeroDark",
+			"artist": null,
+			"file": "icons/clientmods/aero/icon-dark.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/aero/icon-dark.png"
+		},
+		{
+			"name": "aeroLight",
+			"artist": null,
+			"file": "icons/clientmods/aero/icon-light.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/aero/icon-light.png"
+		},
+		{
+			"name": "aeroRainbow",
+			"artist": null,
+			"file": "icons/clientmods/aero/icon-rainbow.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/aero/icon-rainbow.png"
+		},
+		{
+			"name": "tester",
+			"artist": null,
+			"file": "icons/clientmods/aero/tester.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/aero/tester.png"
+		}
+	],
+	"clientmods/aliucord": [
+		{
+			"name": "contributor",
+			"artist": null,
+			"file": "icons/clientmods/aliucord/contributor.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/aliucord/contributor.png"
+		},
+		{
+			"name": "developer",
+			"artist": null,
+			"file": "icons/clientmods/aliucord/dev.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/aliucord/dev.png"
+		},
+		{
+			"name": "donor",
+			"artist": null,
+			"file": "icons/clientmods/aliucord/donor.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/aliucord/donor.png"
+		},
+		{
+			"name": "aliucord",
+			"artist": null,
+			"file": "icons/clientmods/aliucord/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/aliucord/icon.png"
+		}
+	],
+	"clientmods/betterdiscord": [
+		{
+			"name": "betterdiscord2",
+			"artist": null,
+			"file": "icons/clientmods/betterdiscord/betterdiscord2.webp",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/betterdiscord/betterdiscord2.webp"
+		},
+		{
+			"name": "betterdiscord2Server",
+			"artist": null,
+			"file": "icons/clientmods/betterdiscord/betterdiscord2Server.webp",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/betterdiscord/betterdiscord2Server.webp"
+		},
+		{
+			"name": "devServer",
+			"artist": null,
+			"file": "icons/clientmods/betterdiscord/devServer.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/betterdiscord/devServer.png"
+		},
+		{
+			"name": "evilDiscord",
+			"artist": null,
+			"file": "icons/clientmods/betterdiscord/evilDiscord.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/betterdiscord/evilDiscord.png"
+		},
+		{
+			"name": "betterdiscord",
+			"artist": null,
+			"file": "icons/clientmods/betterdiscord/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/betterdiscord/icon.png"
+		},
+		{
+			"name": "teamServer",
+			"artist": null,
+			"file": "icons/clientmods/betterdiscord/teamServer.webp",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/betterdiscord/teamServer.webp"
+		},
+		{
+			"name": "twitter",
+			"artist": null,
+			"file": "icons/clientmods/betterdiscord/twitter.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/betterdiscord/twitter.png"
+		}
+	],
+	"clientmods/bunny": [
+		{
+			"name": "bunny",
+			"artist": null,
+			"file": "icons/clientmods/bunny/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/bunny/icon.png"
+		}
+	],
+	"clientmods/enmity": [
+		{
+			"name": "contributor",
+			"artist": null,
+			"file": "icons/clientmods/enmity/contributor.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/enmity/contributor.png"
+		},
+		{
+			"name": "developer",
+			"artist": null,
+			"file": "icons/clientmods/enmity/dev.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/enmity/dev.png"
+		},
+		{
+			"name": "enmity",
+			"artist": null,
+			"file": "icons/clientmods/enmity/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/enmity/icon.png"
+		},
+		{
+			"name": "staff",
+			"artist": null,
+			"file": "icons/clientmods/enmity/staff.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/enmity/staff.png"
+		},
+		{
+			"name": "supporter",
+			"artist": null,
+			"file": "icons/clientmods/enmity/supporter.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/enmity/supporter.png"
+		}
+	],
+	"clientmods/goosemod": [
+		{
+			"name": "goosemodGlitch",
+			"artist": null,
+			"file": "icons/clientmods/goosemod/icon-glitch.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/goosemod/icon-glitch.png"
+		},
+		{
+			"name": "goosemodGlobe",
+			"artist": null,
+			"file": "icons/clientmods/goosemod/icon-globe.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/goosemod/icon-globe.png"
+		},
+		{
+			"name": "goosemodGold",
+			"artist": null,
+			"file": "icons/clientmods/goosemod/icon-gold.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/goosemod/icon-gold.png"
+		},
+		{
+			"name": "goosemod",
+			"artist": null,
+			"file": "icons/clientmods/goosemod/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/goosemod/icon.png"
+		}
+	],
+	"clientmods/kettu": [
+		{
+			"name": "kettu",
+			"artist": null,
+			"file": "icons/clientmods/kettu/icon-no-background.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/kettu/icon-no-background.png"
+		},
+		{
+			"name": "kettuBlackBackground",
+			"artist": null,
+			"file": "icons/clientmods/kettu/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/kettu/icon.png"
+		},
+		{
+			"name": "translator",
+			"artist": null,
+			"file": "icons/clientmods/kettu/translator.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/kettu/translator.png"
+		}
+	],
+	"clientmods/raincord": [
+		{
+			"name": "raincord",
+			"artist": null,
+			"file": "icons/clientmods/raincord/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/raincord/icon.png"
+		},
+		{
+			"name": "developer",
+			"artist": null,
+			"file": "icons/clientmods/raincord/raincordDev.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/raincord/raincordDev.png"
+		},
+		{
+			"name": "founder",
+			"artist": null,
+			"file": "icons/clientmods/raincord/raincordFounder.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/raincord/raincordFounder.png"
+		}
+	],
+	"clientmods/replugged": [
+		{
+			"name": "booster",
+			"artist": null,
+			"file": "icons/clientmods/replugged/booster.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/booster.png"
+		},
+		{
+			"name": "contributor",
+			"artist": null,
+			"file": "icons/clientmods/replugged/contributor.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/contributor.png"
+		},
+		{
+			"name": "developer",
+			"artist": null,
+			"file": "icons/clientmods/replugged/developer.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/developer.png"
+		},
+		{
+			"name": "early",
+			"artist": null,
+			"file": "icons/clientmods/replugged/early.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/early.png"
+		},
+		{
+			"name": "hibiscusMono",
+			"artist": null,
+			"file": "icons/clientmods/replugged/hibiscus-mono.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/hibiscus-mono.png"
+		},
+		{
+			"name": "hunter",
+			"artist": null,
+			"file": "icons/clientmods/replugged/hunter.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/hunter.png"
+		},
+		{
+			"name": "repluggedWithBackground",
+			"artist": null,
+			"file": "icons/clientmods/replugged/icon-background.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/icon-background.png"
+		},
+		{
+			"name": "replugged",
+			"artist": null,
+			"file": "icons/clientmods/replugged/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/icon.png"
+		},
+		{
+			"name": "staff",
+			"artist": null,
+			"file": "icons/clientmods/replugged/staff.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/staff.png"
+		},
+		{
+			"name": "support",
+			"artist": null,
+			"file": "icons/clientmods/replugged/support.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/support.png"
+		},
+		{
+			"name": "translator",
+			"artist": null,
+			"file": "icons/clientmods/replugged/translator.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/replugged/translator.png"
+		}
+	],
+	"clientmods/revenge": [
+		{
+			"name": "revengeWhite",
+			"artist": null,
+			"file": "icons/clientmods/revenge/icon-dark.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/revenge/icon-dark.png"
+		},
+		{
+			"name": "revengeBlack",
+			"artist": null,
+			"file": "icons/clientmods/revenge/icon-light.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/revenge/icon-light.png"
+		},
+		{
+			"name": "revengeWithBackground",
+			"artist": null,
+			"file": "icons/clientmods/revenge/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/revenge/icon.png"
+		}
+	],
+	"clientmods/shelter": [
+		{
+			"name": "shelter",
+			"artist": null,
+			"file": "icons/clientmods/shelter/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/shelter/icon.png"
+		}
+	],
+	"clientmods/suncord": [
+		{
+			"name": "suncord",
+			"artist": null,
+			"file": "icons/clientmods/suncord/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/suncord/icon.png"
+		}
+	],
+	"clientmods/velocity": [
+		{
+			"name": "contributor",
+			"artist": null,
+			"file": "icons/clientmods/velocity/contributor.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/velocity/contributor.png"
+		},
+		{
+			"name": "developer",
+			"artist": null,
+			"file": "icons/clientmods/velocity/developer.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/velocity/developer.png"
+		},
+		{
+			"name": "early",
+			"artist": null,
+			"file": "icons/clientmods/velocity/early.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/velocity/early.png"
+		},
+		{
+			"name": "velocityWithBackground",
+			"artist": null,
+			"file": "icons/clientmods/velocity/icon-background.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/velocity/icon-background.png"
+		},
+		{
+			"name": "velocity",
+			"artist": null,
+			"file": "icons/clientmods/velocity/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/velocity/icon.png"
+		},
+		{
+			"name": "translator",
+			"artist": null,
+			"file": "icons/clientmods/velocity/translator.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/velocity/translator.png"
+		}
+	],
+	"clientmods/vencord": [
+		{
+			"name": "aprilFools2023",
+			"artist": "vee",
+			"file": "icons/clientmods/vencord/aprilFools2023.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/aprilFools2023.png"
+		},
+		{
+			"name": "christmas2023",
+			"artist": "wing",
+			"file": "icons/clientmods/vencord/christmas2023.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/christmas2023.png"
+		},
+		{
+			"name": "christmas2023Animated",
+			"artist": "lewi",
+			"file": "icons/clientmods/vencord/christmas2023Animated.gif",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/christmas2023Animated.gif"
+		},
+		{
+			"name": "christmas2025",
+			"artist": "wing",
+			"file": "icons/clientmods/vencord/christmas2025.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/christmas2025.png"
+		},
+		{
+			"name": "german",
+			"artist": "paige",
+			"file": "icons/clientmods/vencord/german.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/german.png"
+		},
+		{
+			"name": "halloween2024",
+			"artist": "samsam",
+			"file": "icons/clientmods/vencord/halloween2024.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/halloween2024.png"
+		},
+		{
+			"name": "halloween2025",
+			"artist": "wing",
+			"file": "icons/clientmods/vencord/halloween2025.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/halloween2025.png"
+		},
+		{
+			"name": "halloween2026",
+			"artist": "claration",
+			"file": "icons/clientmods/vencord/halloween2026.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/halloween2026.png"
+		},
+		{
+			"name": "vencordDark",
+			"artist": "paige",
+			"file": "icons/clientmods/vencord/icon-dark.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/icon-dark.png"
+		},
+		{
+			"name": "vencordLight",
+			"artist": "paige",
+			"file": "icons/clientmods/vencord/icon-light.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/icon-light.png"
+		},
+		{
+			"name": "vencord",
+			"artist": "paige",
+			"file": "icons/clientmods/vencord/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/icon.png"
+		},
+		{
+			"name": "initialLogo",
+			"artist": null,
+			"file": "icons/clientmods/vencord/initialLogo.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/initialLogo.png"
+		},
+		{
+			"name": "pride2023",
+			"artist": "vee",
+			"file": "icons/clientmods/vencord/pride2023.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/pride2023.png"
+		},
+		{
+			"name": "pride2024",
+			"artist": "pix",
+			"file": "icons/clientmods/vencord/pride2024.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/pride2024.png"
+		},
+		{
+			"name": "reimuShitpost",
+			"artist": null,
+			"file": "icons/clientmods/vencord/reimuShitpost.gif",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/reimuShitpost.gif"
+		},
+		{
+			"name": "vencord",
+			"artist": "samsam",
+			"file": "icons/clientmods/vencord/vencord.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/vencord.png"
+		},
+		{
+			"name": "vencord2024",
+			"artist": "oomfie",
+			"file": "icons/clientmods/vencord/vencord2024.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/vencord2024.png"
+		},
+		{
+			"name": "vencordContributor2026",
+			"artist": "claration",
+			"file": "icons/clientmods/vencord/vencordContributor2026.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/vencordContributor2026.png"
+		},
+		{
+			"name": "vencordShine",
+			"artist": "exotic",
+			"file": "icons/clientmods/vencord/vencordShine.gif",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/vencordShine.gif"
+		},
+		{
+			"name": "vencordShineVennie",
+			"artist": "exotic",
+			"file": "icons/clientmods/vencord/vencordShineVennie.gif",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/vencordShineVennie.gif"
+		},
+		{
+			"name": "vesktop",
+			"artist": "wing",
+			"file": "icons/clientmods/vencord/vesktop.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/vesktop.png"
+		}
+	],
+	"clientmods/vencord/vencord/old": [
+		{
+			"name": "oldVencord",
+			"artist": "nanoqoi",
+			"file": "icons/clientmods/vencord/vencord/old/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vencord/vencord/old/icon.png"
+		}
+	],
+	"clientmods/vendetta": [
+		{
+			"name": "vendetta",
+			"artist": null,
+			"file": "icons/clientmods/vendetta/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vendetta/icon.png"
+		},
+		{
+			"name": "rocks",
+			"artist": null,
+			"file": "icons/clientmods/vendetta/rocks.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/clientmods/vendetta/rocks.png"
+		}
+	],
+	"equibop": [
+		{
+			"name": "equibop",
+			"artist": "CodeF53",
+			"file": "icons/equibop/equibop.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equibop/equibop.png"
+		},
+		{
+			"name": "equibopBlackBackground",
+			"artist": "creations",
+			"file": "icons/equibop/equibopBlackBackground.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equibop/equibopBlackBackground.png"
+		},
+		{
+			"name": "equibopUnread",
+			"artist": "CodeF53",
+			"file": "icons/equibop/equibopUnread.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equibop/equibopUnread.png"
+		}
+	],
+	"equicord": [
+		{
+			"name": "donor",
+			"artist": null,
+			"file": "icons/equicord/donor.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equicord/donor.png"
+		},
+		{
+			"name": "equicordGreyBackground",
+			"artist": "naibuu",
+			"file": "icons/equicord/equicordGreyBackground.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equicord/equicordGreyBackground.png"
+		},
+		{
+			"name": "equicordModified",
+			"artist": "thororen",
+			"file": "icons/equicord/equicordModified.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equicord/equicordModified.png"
+		},
+		{
+			"name": "equicordBlackBackground",
+			"artist": "naibuu",
+			"file": "icons/equicord/icon-black.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equicord/icon-black.png"
+		},
+		{
+			"name": "equicordZoomedOut",
+			"artist": "naibuu",
+			"file": "icons/equicord/icon-far.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equicord/icon-far.png"
+		},
+		{
+			"name": "equicord",
+			"artist": "naibuu",
+			"file": "icons/equicord/icon.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equicord/icon.png"
+		},
+		{
+			"name": "translator",
+			"artist": "naibuu",
+			"file": "icons/equicord/translator.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equicord/translator.png"
+		},
+		{
+			"name": "userplugin",
+			"artist": null,
+			"file": "icons/equicord/userplugin.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equicord/userplugin.png"
+		}
+	],
+	"equicord/old": [
+		{
+			"name": "equicordOG",
+			"artist": "foxstorm1",
+			"file": "icons/equicord/old/icon-background.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equicord/old/icon-background.png"
+		},
+		{
+			"name": "equicordTeam",
+			"artist": "foxstorm1",
+			"file": "icons/equicord/old/team-background.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equicord/old/team-background.png"
+		}
+	],
+	"equidocs": [
+		{
+			"name": "equidocs",
+			"artist": "blade0",
+			"file": "icons/equidocs/equidocs.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/equidocs/equidocs.png"
+		}
+	],
+	"general": [
+		{
+			"name": "aprilFools2025",
+			"artist": "stealtech",
+			"file": "icons/general/aprilFools2025.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/aprilFools2025.png"
+		},
+		{
+			"name": "christmas2025CandyCane",
+			"artist": "foxstorm1",
+			"file": "icons/general/christmas2025CandyCane.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/christmas2025CandyCane.png"
+		},
+		{
+			"name": "christmas2025Gingerbread",
+			"artist": "naibuu",
+			"file": "icons/general/christmas2025Gingerbread.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/christmas2025Gingerbread.png"
+		},
+		{
+			"name": "equibop",
+			"artist": "beautySolar",
+			"file": "icons/general/equibop.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/equibop.png"
+		},
+		{
+			"name": "equibopDevelopment",
+			"artist": "beautySolar",
+			"file": "icons/general/equibopDevelopment.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/equibopDevelopment.png"
+		},
+		{
+			"name": "equineko",
+			"artist": "foxstorm1",
+			"file": "icons/general/equineko.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/equineko.png"
+		},
+		{
+			"name": "equipride1",
+			"artist": "foxstorm1",
+			"file": "icons/general/equipride1.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/equipride1.png"
+		},
+		{
+			"name": "equipride2",
+			"artist": "foxstorm1",
+			"file": "icons/general/equipride2.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/equipride2.png"
+		},
+		{
+			"name": "equisair",
+			"artist": "foxstorm1",
+			"file": "icons/general/equisair.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/equisair.png"
+		},
+		{
+			"name": "gayPrideMonth",
+			"artist": "zunne",
+			"file": "icons/general/gayPrideMonth.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/gayPrideMonth.png"
+		},
+		{
+			"name": "glitchEquicord",
+			"artist": "krstlskll",
+			"file": "icons/general/glitchEquicord.gif",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/glitchEquicord.gif"
+		},
+		{
+			"name": "halloween2024",
+			"artist": "foxstorm1",
+			"file": "icons/general/halloween2024.gif",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/halloween2024.gif"
+		},
+		{
+			"name": "halloween2025",
+			"artist": "foxstorm1",
+			"file": "icons/general/halloween2025.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/halloween2025.png"
+		},
+		{
+			"name": "halloween2026",
+			"artist": "naibuu",
+			"file": "icons/general/halloween2026.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/halloween2026.png"
+		},
+		{
+			"name": "joke",
+			"artist": "zunne",
+			"file": "icons/general/joke.png",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/general/joke.png"
+		}
+	],
+	"soggy": [
+		{
+			"name": "soggycat",
+			"artist": null,
+			"file": "icons/soggy/soggycat.webp",
+			"url": "https://raw.githubusercontent.com/Equicord/Equibored/main/icons/soggy/soggycat.webp"
+		}
+	]
+}
