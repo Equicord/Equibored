@@ -100,6 +100,11 @@
 			"name": "Mastercord",
 			"artist": "zyqunix",
 			"file": "icons/general/mastercord.png"
+		},
+		{
+			"name": "Mastercord v2",
+			"artist" "zyqunix",
+			"file": "icons/general/mastercord_v2.png"
 		}
 	],
 	"equicord": [
