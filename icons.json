@@ -3,22 +3,32 @@
 		{
 			"name": "April Fools 2025",
 			"artist": "stealtech",
-			"file": "icons/general/aprilFools2025.png"
+			"file": "icons/general/aprilFools2025.png",
+			"holiday": true
 		},
 		{
 			"name": "Christmas 2025 Candy Cane",
 			"artist": "foxstorm1",
-			"file": "icons/general/christmas2025CandyCane.png"
+			"file": "icons/general/christmas2025CandyCane.png",
+			"holiday": true
 		},
 		{
 			"name": "Christmas 2025 Gingerbread",
 			"artist": "naibuu",
-			"file": "icons/general/christmas2025Gingerbread.png"
+			"file": "icons/general/christmas2025Gingerbread.png",
+			"holiday": true
 		},
 		{
 			"name": "Christmas 2026 Sweater",
 			"artist": "naibuu",
-			"file": "icons/general/christmas2026Sweater.png"
+			"file": "icons/general/christmas2026Sweater.png",
+			"holiday": true
+		},
+		{
+			"name": "Christmas 2026 Snowflakes",
+			"artist": "asinix",
+			"file": "icons/general/christmas2026Snowflakes.png",
+			"holiday": true
 		},
 		{
 			"name": "Equibop",
@@ -38,12 +48,14 @@
 		{
 			"name": "Equipride 1",
 			"artist": "foxstorm1",
-			"file": "icons/general/equipride1.png"
+			"file": "icons/general/equipride1.png",
+			"holiday": true
 		},
 		{
 			"name": "Equipride 2",
 			"artist": "foxstorm1",
-			"file": "icons/general/equipride2.png"
+			"file": "icons/general/equipride2.png",
+			"holiday": true
 		},
 		{
 			"name": "Equisair",
@@ -53,7 +65,8 @@
 		{
 			"name": "Gay Pride Month",
 			"artist": "zunne",
-			"file": "icons/general/gayPrideMonth.png"
+			"file": "icons/general/gayPrideMonth.png",
+			"holiday": true
 		},
 		{
 			"name": "Glitch Equicord",
@@ -63,17 +76,20 @@
 		{
 			"name": "Halloween 2024",
 			"artist": "foxstorm1",
-			"file": "icons/general/halloween2024.gif"
+			"file": "icons/general/halloween2024.gif",
+			"holiday": true
 		},
 		{
 			"name": "Halloween 2025",
 			"artist": "foxstorm1",
-			"file": "icons/general/halloween2025.png"
+			"file": "icons/general/halloween2025.png",
+			"holiday": true
 		},
 		{
 			"name": "Halloween 2026",
 			"artist": "naibuu",
-			"file": "icons/general/halloween2026.png"
+			"file": "icons/general/halloween2026.png",
+			"holiday": true
 		},
 		{
 			"name": "Joke",
@@ -491,22 +507,26 @@
 		{
 			"name": "April Fools 2023",
 			"artist": "vee",
-			"file": "icons/clientmods/vencord/aprilFools2023.png"
+			"file": "icons/clientmods/vencord/aprilFools2023.png",
+			"holiday": true
 		},
 		{
 			"name": "Christmas 2023",
 			"artist": "wing",
-			"file": "icons/clientmods/vencord/christmas2023.png"
+			"file": "icons/clientmods/vencord/christmas2023.png",
+			"holiday": true
 		},
 		{
 			"name": "Christmas 2023 Animated",
 			"artist": "lewi",
-			"file": "icons/clientmods/vencord/christmas2023Animated.gif"
+			"file": "icons/clientmods/vencord/christmas2023Animated.gif",
+			"holiday": true
 		},
 		{
 			"name": "Christmas 2025",
 			"artist": "wing",
-			"file": "icons/clientmods/vencord/christmas2025.png"
+			"file": "icons/clientmods/vencord/christmas2025.png",
+			"holiday": true
 		},
 		{
 			"name": "German",
@@ -516,17 +536,20 @@
 		{
 			"name": "Halloween 2024",
 			"artist": "samsam",
-			"file": "icons/clientmods/vencord/halloween2024.png"
+			"file": "icons/clientmods/vencord/halloween2024.png",
+			"holiday": true
 		},
 		{
 			"name": "Halloween 2025",
 			"artist": "wing",
-			"file": "icons/clientmods/vencord/halloween2025.png"
+			"file": "icons/clientmods/vencord/halloween2025.png",
+			"holiday": true
 		},
 		{
 			"name": "Halloween 2026",
 			"artist": "claration",
-			"file": "icons/clientmods/vencord/halloween2026.png"
+			"file": "icons/clientmods/vencord/halloween2026.png",
+			"holiday": true
 		},
 		{
 			"name": "Initial Logo",
@@ -536,12 +559,14 @@
 		{
 			"name": "Pride 2023",
 			"artist": "vee",
-			"file": "icons/clientmods/vencord/pride2023.png"
+			"file": "icons/clientmods/vencord/pride2023.png",
+			"holiday": true
 		},
 		{
 			"name": "Pride 2024",
 			"artist": "pix",
-			"file": "icons/clientmods/vencord/pride2024.png"
+			"file": "icons/clientmods/vencord/pride2024.png",
+			"holiday": true
 		},
 		{
 			"name": "Reimu Shitpost",
