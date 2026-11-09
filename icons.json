@@ -95,6 +95,11 @@
 			"name": "Joke",
 			"artist": "zunne",
 			"file": "icons/general/joke.png"
+		},
+		{
+			"name": "Mastercord",
+			"artist": "zyqunix",
+			"file": "icons/general/mastercord.png"
 		}
 	],
 	"equicord": [
